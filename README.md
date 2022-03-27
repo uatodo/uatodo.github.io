@@ -22,7 +22,7 @@
 
 Бесплатные занятия по изобразительному исскуству для украинских деток в [Амстердаме](https://www.instagram.com/p/Ca5EItGgSV-/?utm_medium=copy_link)
 
-Встречи для украинской творческий молодежи(14+) каждый четверг с 14:00 до 16:00 в художественной студии в [Хаарлеме](https://www.instagram.com/artstart.haarlem/). Запись <artstar.haarlem@gmail.com>
+Встречи для украинской творческий молодежи(14+) каждый четверг с 14:00 до 16:00 в художественной студии в [Хаарлеме](https://www.instagram.com/artstart.haarlem/). Запись <artstart.haarlem@gmail.com>
 
 ---
 
