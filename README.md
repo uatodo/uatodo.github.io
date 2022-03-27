@@ -10,6 +10,8 @@
 
 Зоопарк [Almere Jungel](https://almerejungle.nl) вход по предъявлению украинского паспорта беплатно. 
 
+Зоопарк в Амстердаме [Artis](https://www.artis.nl/nl/) вход по предъявлению украинского паспорта беплатно.
+
 Бесплатные развлечения для детей в [Амстердаме](https://www.instagram.com/p/CbcQmxYgkbr/?utm_medium=copy_link)
 
 Бесплатные развлечения для детей в [Гааге](https://www.facebook.com/2021697194510945/posts/7756351761045431/?d=n)
