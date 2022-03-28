@@ -19,12 +19,12 @@
 
 Легкоатлетический клуб в [Гааге](https://www.avsparta.nl) приглашает украинцев. Пишите на английском или нидерландском <penningmeester@avsparta.nl>
 
-Бесплатные занятия керамикой для детей(5+) и взрослых каждый вторник с 16.00 по 17.45. Адрес Vlietweg 16 Leidschendam. Запись через Whatsapp  +31646051782, Марыя Прохарава.
+Бесплатные занятия керамикой для детей(5+) и взрослых каждый вторник с 16.00 по 17.45. Адрес Vlietweg 16 Leidschendam. Запись через Whatsapp  +31646051782, Maryja Proharava.
 
 
  АМСТЕРДАМ И ОКРЕСТНОСТИ
  
-Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а так же организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный. 
+Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а также организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный. 
 
 Зоопарк в Амстердаме [Artis](https://www.artis.nl/nl/) вход по предъявлению украинского паспорта беплатно.
 
