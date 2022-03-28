@@ -9,7 +9,7 @@
 
  ГААГА ТА ОКОЛИЦI
  
-Бесплатный курс нидерландского языка в школе [Taal aan zee](https://taalaanzee.nl/contact). [Запись](9https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) 29 марта с 10:00 до 11:30 по адресу Calandstraat 1, Den Haag или пишите <info@taalaanzee.nl>.
+Безкоштовний курс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). [Зареєструватись](9https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) 29 березня з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
 Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
@@ -24,7 +24,7 @@
 
  АМСТЕРДАМ ТА ОКОЛИЦI
  
-Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а так же организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный.
+Організація "Громадські бібліотеки Амстердаму" спеціально для українців [пропонує](https://www.oba.nl/actueel/Ukraine.html), також організувала [фотовиставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вхід вільний.
 
 Зоопарк в м. Амстердам [Artis](https://www.artis.nl/nl/) безкоштовний вхід при пред'явленні українського паспорта. 
 
