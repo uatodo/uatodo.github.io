@@ -9,7 +9,7 @@
 
  ГААГА ТА ОКОЛИЦI
  
-Безкоштовний курс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). [Зареєструватись](9https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) 29 березня з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
+Безкоштовний курс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). [Зареєструватись](https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) 29 березня з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
 Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
