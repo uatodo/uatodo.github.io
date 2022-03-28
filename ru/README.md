@@ -32,6 +32,16 @@
 
 Легкоателический клуб в [Гааге](https://www.avsparta.nl) приглашает украинцев. Пишите на английском или нидерландском <penningmeester@avsparta.nl>
 
+Парки группы [PLOPSA](https://www.looopings.nl/weblog/19175/Gevluchte-Oekraiense-kinderen-mogen-gratis-naar-Plopsa-parken.html): бесплатный вход для детей до 14 лет и 40% скидка для тех кто старше при придьявлении украинского паспорта. [Сайт парка](https://www.plopsaindoorcoevorden.nl/nl)
+
+Проект [DobroDiy]((https://lycka.amsterdam/)) проводит для украинских женщин встречи, семинары и воркошопы каждый вторник с 10:00 до 15:00. Для детей будет огранизован игровой уголок с няней. Адрес Lutonhof 73, Amsterdam. Следите за обновлениями [Agnum](https://www.facebook.com/Agnumevent).
+
+Бесплатные скетч сесссии для украинских детей с 12 лет в Амстерадме. Запись [тут](https://instagram.com/kateryna_ti_art?utm_medium=copy_link)
+
+[Театральная студия](https://www.instagram.com/p/CbfL_dSK7hH/) предлагает занятия для украинских детей с 7 до 12 лет в Амстердаме. [Запись](https://www.instagram.com/go_sonya/)
+
+Бесплатные занятия курамикой для детей(5+) и взрослых каждый вторник с 16.00 по 17.45. Адрес Vlietweg 16 Leidschendam. Запись через Whatsapp  +31646051782, Maria Prokhorova
+
 ---
 
 Если вы заметили какие-нибудь неточности или устаревшие данные или хотите добавить новую информацию, свяжитесь с нами <uatodo@protonmail.com> 
