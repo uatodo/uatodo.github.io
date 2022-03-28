@@ -24,7 +24,7 @@
 
  АМСТЕРДАМ ТА ОКОЛИЦI
  
-Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а такаже организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный.
+Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а так же организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный.
 
 Зоопарк в м. Амстердам [Artis](https://www.artis.nl/nl/) безкоштовний вхід при пред'явленні українського паспорта. 
 
