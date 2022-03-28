@@ -7,7 +7,7 @@
 Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
 
- ГААГА ТА ОКОЛИЦI
+### Гаага та околицi
  
 Безкоштовний курс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). [Зареєструватись](https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) 29 березня з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
@@ -22,7 +22,7 @@
 У Лейдсендамі безкоштовні заняття керамікою для українців (від 5 років). Щовівторка з 16.00-17.45. Адреса Vlietweg 16 Leidschendam. Запис у Whatsapp +31646051782, Maryja Proharava.
 
 
- АМСТЕРДАМ ТА ОКОЛИЦI
+### Амстердам та околицi
  
 Організація "Громадські бібліотеки Амстердаму" спеціально для українців [пропонує](https://www.oba.nl/actueel/Ukraine.html), також організувала [фотовиставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вхід вільний.
 
@@ -45,7 +45,7 @@
 [Театральна студія](https://www.instagram.com/p/CbfL_dSK7hH/) для українських діток від 7 до 12 років.Безкоштовно.Амстердам. Перше заняття у середу 30 березня о 14.00. Тривалість уроку одна година. Реєстрація [тут](https://www.instagram.com/go_sonya/)
 
 
- IНШI PЕГIОНИ
+### Iншi pегiони
 
 Зоопарк [Ouwehand](https://www.ouwehand.nl/) безкоштовний вхід при пред'явленні українського паспорта.
 
