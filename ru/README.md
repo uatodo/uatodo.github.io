@@ -7,7 +7,7 @@
 Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
 
 
- ГААГА И ОКРЕСТНОСТИ 
+### Гаага и окрестности
  
 Бесплатный курс нидерландского языка в школе [Taal aan zee](https://taalaanzee.nl/contact). [Запись](https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) 29 марта с 10:00 до 11:30 по адресу Calandstraat 1, Den Haag или пишите <info@taalaanzee.nl>.
 
@@ -22,7 +22,7 @@
 Бесплатные занятия керамикой для детей(5+) и взрослых каждый вторник с 16.00 по 17.45. Адрес Vlietweg 16 Leidschendam. Запись через Whatsapp  +31646051782, Maryja Proharava.
 
 
- АМСТЕРДАМ И ОКРЕСТНОСТИ
+### Амстердам и окрестности
  
 Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а также организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный. 
 
@@ -45,7 +45,7 @@
 [Театральная студия](https://www.instagram.com/p/CbfL_dSK7hH/) предлагает занятия для украинских детей с 7 до 12 лет в Амстердаме. [Запись](https://www.instagram.com/go_sonya/)
 
 
- ДРУГИЕ РЕГИОНЫ
+### Другие регионы
 
 Зоопарк [Ouwehand](https://www.ouwehand.nl/) вход по предъявлению украинского паспорта беплатно.
 
