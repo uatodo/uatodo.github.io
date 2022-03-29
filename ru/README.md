@@ -6,6 +6,8 @@
 
 Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
 
+[Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
+
 
 ### Гаага и окрестности
  
