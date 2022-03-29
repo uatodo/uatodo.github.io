@@ -8,6 +8,8 @@
 
 [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#)
 
+Безкоштовний преміум доступ до мовної школи [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
+
 
 ### Гаага та околицi
  
