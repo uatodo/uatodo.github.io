@@ -9,7 +9,7 @@
 
 ### Гаага та околицi
  
-Kурс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/nederlandse-les-voor-vluchtelingen-uit-oekraine) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
+Kурс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/les-krijgen/centraal) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
 Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
