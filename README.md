@@ -46,9 +46,9 @@ Kурс нідерландської мови в школі [Taal aan zee](https
 
 Безкоштовні скетч сесії для українських дітей від 12років в Амстердамі. Записатись можна [тут](https://instagram.com/kateryna_ti_art?utm_medium=copy_link).
 
-[Театральна студія](https://www.instagram.com/p/CbfL_dSK7hH/) для українських діток від 7 до 12 років.Безкоштовно.Амстердам. Перше заняття у середу 30 березня о 14.00. Тривалість уроку одна година. Реєстрація [тут](https://www.instagram.com/go_sonya/)
+[Театральна студія](https://www.instagram.com/p/CbfL_dSK7hH/) для українських діток від 7 до 12 років. Безкоштовно. Амстердам. [Реєстрація](https://www.instagram.com/go_sonya/)
 
-Безкоштовні групові заняття спортом для українських жінок та дітей у [Fight Beck Center](www.FightBeck.nl) (адреса Tweede Weteringdwarsstraat 41H Amsterdam). Наразі наявні 4 місця в групи Пн, вт, ср та пт 17.45-19.00 год, Пн, вт, ср та чт 19.15-20.30 год. Для дівчат-підлітків залишилися місця лише на неділю 17:00-18:15. Реєстрація за номером телефону Shimi Beck +31629455162. [Facebook](https://www.facebook.com/FightBeck/). [Instagram](https://www.instagram.com/fight_beck/) Мова- англійська.
+Безкоштовні групові заняття спортом для українських жінок та дітей у [Fight Beck Center](www.FightBeck.nl) (адреса Tweede Weteringdwarsstraat 41H Amsterdam). Реєстрація за номером телефону Shimi Beck +31629455162. [Facebook](https://www.facebook.com/FightBeck/). [Instagram](https://www.instagram.com/fight_beck/). Мова- англійська.
 
 
 ### Iншi pегiони
