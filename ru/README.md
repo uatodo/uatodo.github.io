@@ -6,7 +6,7 @@
 
 Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
 
-Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
+Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
 
 [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
 
