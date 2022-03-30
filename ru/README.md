@@ -6,6 +6,8 @@
 
 Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
 
+Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
+
 [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
 
 Бесплатный премиум-доступ к языковой школе [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
@@ -23,9 +25,9 @@
 
 * Легкоатлетический клуб в [Гааге](https://www.avsparta.nl) приглашает украинцев. Бесплатно. Пишите на английском или нидерландском <penningmeester@avsparta.nl>
 
-* Бесплатные занятия керамикой для детей(5+) и взрослых каждый вторник с 16.00 по 17.45. Адрес Vlietweg 16 Leidschendam. Запись через Whatsapp  +31646051782, Maryja Proharava.
+* Бесплатные занятия керамикой для детей(5+) и взрослых каждый вторник с 16.00 по 17.45. Адрес Vlietweg 16 Leidschendam. Запись через WhatsApp  +31646051782, Maryja Proharava.
 
-* Занятия йогой каждую пятницу по адресу Oeverwallaan 130, 2498 BK Den Haag. Детей можно брать с собой. Группа формируется. WhatsAPP 0628954285 Katya или на e-mail <churakova.k@gmail.com>.
+* Занятия йогой каждую пятницу по адресу Oeverwallaan 130, 2498 BK Den Haag. Детей можно брать с собой. Группа формируется. WhatsApp 0628954285 Katya или на e-mail <churakova.k@gmail.com>.
 
 * Детская мастерская для беженцев из Украины. Время проведения: каждую субботу с 10.00 до 12.00 по адресу: Koetshuis Clingendael 8. Регистрация  <helene.hammerstein@icloud.com> или 06-23307929. Язык голландский/английский.
 
