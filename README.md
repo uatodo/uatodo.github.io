@@ -8,7 +8,9 @@
 
 Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhataApp +31 648158053. Мова українська чи російська.
 
-[Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#)
+[Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
+
+Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
 Безкоштовний преміум-доступ до мовної школи [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
 
