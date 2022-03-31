@@ -14,7 +14,7 @@
 
 Бесплатный премиум-доступ к языковой школе [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
 
-Больницы Нидерландов открывают свои двери для оказания медицинской помощи людям из Украины, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.
+Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.
 
 
 ### Гаага и окрестности
