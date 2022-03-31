@@ -17,6 +17,8 @@
  
 * Курс нидерландского языка в школе [Taal aan zee](https://taalaanzee.nl/contact). [Приходите](https://taalaanzee.nl/les-krijgen/centraal) каждый вторник с 10:00 до 11:30 по адресу Calandstraat 1, Den Haag или пишите <info@taalaanzee.nl>.
 
+* Бесплатные уроки анлийского языка каждый четверг с 13:30 до 14:30 в het Kalhuis, по адресу Badhuisstraat 177 Den Haag. Запись обязательна <nicole.debruijn@welzijnscheveningen.nl>
+
 * Сеть детских стоматологических клиник [Jeugd Tandzorg West](https://www.smile-west.com/) принимает бесплатно украинских детей. В первую очередь, с острой болью. Но прийти на осмотр также возможно.
 
 * [Мадюродам](https://www.madurodam.nl/ru) в Гааге вход €2,5 по предъявлению украинского паспорта.
