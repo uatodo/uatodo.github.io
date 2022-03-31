@@ -10,7 +10,7 @@
 
 [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
 
-Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих для беженцев. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
+Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
 Бесплатный премиум-доступ к языковой школе [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
 
