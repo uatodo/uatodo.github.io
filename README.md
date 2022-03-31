@@ -20,6 +20,7 @@
 
 
 ### Гаага та околицi
+* 3 квітня українські біженці можуть безкоштовно взяти різноманітні товари. З 11:30 до 13:30 за адресою: Nijverheidsstraat 20, Rijswijk. [Інформація.](https://facebook.com/groups/500473288376950/permalink/507949124296033/)
 
 * Дитячий центр [Bamboe](https://www.kindcentrumbamboe.nl) пропонує вже зараз українським дітям 7-12 років місця у суботній групі та дітям 4-12 років місця у денному літньому таборі, який пройде з 11 по 28 липня. Контактна особа Raymond Been <rbeen@kindcentrumbamboe.nl> чи 070 - 3662011 / 06 - 31792983 чи [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
  
