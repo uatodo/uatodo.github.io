@@ -17,6 +17,8 @@
  
 * Kурс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/les-krijgen/centraal) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
+* Безкоштовні уроки анлійської мови щочетверга з 13:30 до 14:30 в het Kalhuis за адресою Badhuisstraat 177 Den Haag. Реєстрація обов'язкова <nicole.debruijn@welzijnscheveningen.nl>
+
 * Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
 * [Мадюродам](https://www.madurodam.nl/ru) в Гаазі вхід €2,5 при пред'явленні українського паспорта.
