@@ -67,6 +67,8 @@
 
 ### Другие регионы
 
+* [Занский музей](https://zaansmuseum.nl/zien-doen/gratis-toegang-voor-mensen-uit-oekraine/) и дом царя Петра Первого в Зандаме бесплатно для украинцев при предъявлении паспорта. 
+
 * Зоопарк [Ouwehand](https://www.ouwehand.nl/) вход по предъявлению украинского паспорта беплатно.
 
 * Зоопарк в Алмере [Almere Jungel](https://almerejungle.nl) вход по предъявлению украинского паспорта беплатно. 
