@@ -4,17 +4,19 @@
 
 ---
 
-Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
+### Загальна інформація 
 
-Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhataApp +31 648158053. Мова українська чи російська.
+* Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
-[Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
+* Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhataApp +31 648158053. Мова українська чи російська.
 
-Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
+* [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
 
-Безкоштовний преміум-доступ до мовної школи [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
+* Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
-Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем.
+* Безкоштовний преміум-доступ до мовної школи [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
+
+* Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем.
 
 
 ### Гаага та околицi
