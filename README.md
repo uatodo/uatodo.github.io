@@ -14,6 +14,8 @@
 
 Безкоштовний преміум-доступ до мовної школи [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
 
+Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з дамашнім лікарем.
+
 
 ### Гаага та околицi
 
