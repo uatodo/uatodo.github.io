@@ -56,7 +56,7 @@
  
 * Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а также организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный. 
 
-* Бесплатные экскурсии в [Rijksmuseum](https://www.rijksmuseum.nl/nl) [с гидом](https://www.instagram.com/weekendtuner/). Каждое воскресение 10.04-08.05 в 12:00 и в 14:30. Запись <educatie@rijksmuseum.nl>.
+* Бесплатные экскурсии в [Rijksmuseum](https://www.rijksmuseum.nl/nl) c [гидом](https://www.instagram.com/weekendtuner/). Каждое воскресение 10.04-08.05 в 12:00 и в 14:30. Запись <educatie@rijksmuseum.nl>.
 
 * Зоопарк в Амстердаме [Artis](https://www.artis.nl/nl/) вход по предъявлению украинского паспорта беплатно.
 
