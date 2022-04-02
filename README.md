@@ -14,7 +14,7 @@
 
 * Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
-* Безкоштовний преміум-доступ до мовної школи [LingQ](https://www.lingq.com/en/forum/open-forum/lingq-stands-with-ukraine-free/)
+* Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet)
 
 * Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
 
