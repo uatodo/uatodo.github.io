@@ -78,7 +78,7 @@
 
 * [Театральна студія](https://www.instagram.com/p/CbfL_dSK7hH/) для українських діток від 7 до 12 років. Безкоштовно. Амстердам. [Реєстрація](https://www.instagram.com/go_sonya/)
 
-* Безкоштовні групові заняття спортом для українських жінок та дітей у [Fight Beck Center](www.FightBeck.nl) (адреса Tweede Weteringdwarsstraat 41H Amsterdam). Реєстрація за номером телефону Shimi Beck +31629455162. [Facebook](https://www.facebook.com/FightBeck/). [Instagram](https://www.instagram.com/fight_beck/). Мова- англійська.
+* Безкоштовні групові заняття спортом для українських жінок та дітей у [Fight Beck Center](https://www.fightbeck.nl) Адреса: Tweede Weteringdwarsstraat 41H Amsterdam. Реєстрація за номером телефону Shimi Beck +31629455162. [Facebook](https://www.facebook.com/FightBeck/). [Instagram](https://www.instagram.com/fight_beck/). Мова - англійська.
 
 
 ### Iншi pегiони
