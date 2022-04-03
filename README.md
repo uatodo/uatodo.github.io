@@ -16,7 +16,7 @@
 
 * Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
-* Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet)
+* Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
 
 * Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
 
@@ -26,6 +26,7 @@
 
 
 ### Гаага та околицi
+
 * 3 квітня українські біженці можуть безкоштовно взяти різноманітні товари. З 11:30 до 13:30 за адресою: Nijverheidsstraat 20, Rijswijk. [Інформація.](https://facebook.com/groups/500473288376950/permalink/507949124296033/)
 
 * Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
@@ -35,6 +36,10 @@
 * Kурс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/les-krijgen/centraal) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
 * Безкоштовні уроки анлійської мови щочетверга з 13:30 до 14:30 в het Kalhuis за адресою Badhuisstraat 177 Den Haag. Реєстрація обов'язкова <nicole.debruijn@welzijnscheveningen.nl>
+
+* Безкоштовний курс голландської мови у Гаазi за адресою Spui 85, Den Haag. Реєстрація Centrale Bibliotheek/Taalhuis <taalhuis@denhaag.nl> чи 06 13471408.
+
+* Безкоштовний курс голландської мови у Гаазi за адресою Hobbemaplein 30, Den Haag. Реєстрація Bibliotheek Transvaalkwartier <transvaalkwartier@bibliotheekdenhaag.nl> чи 070 3537851.
 
 * Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
