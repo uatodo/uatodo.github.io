@@ -20,6 +20,8 @@
 
 * Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
 
+* Безкоштовні уроки анлійської мови via Zoom, [більше інформації](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
+
 * Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем. Зокрема, [Нідерландський інститут раку](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) буде приймати українців з онко-діагнозами або з підозрою на онкологію.
 
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
