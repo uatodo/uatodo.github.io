@@ -16,9 +16,11 @@
 
 * Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
-* Бесплатный доступ к языковым [онлайн-школам](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet)
+* Бесплатный доступ к языковым [онлайн-школам](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
 
 * Разговорный онлайн-клуб украинского языка [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) каждое воскресенье в 18.00 (по Киеву) для всех уровней.
+
+* Бесплатные уроки английского языка via Zoom, [больше информации](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
 
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
