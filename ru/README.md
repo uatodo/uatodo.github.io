@@ -24,6 +24,8 @@
 
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
+* Команда психологов всеукраинской линии колл-центра [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) предоставляет бесплатные консультации всем, кому тревожно и кто не может самостоятельно справиться с эмоциями.
+
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
 
 
@@ -86,6 +88,9 @@
 
 * Бесплатные групповые занятия спортом для украинских женщин и детей в [Fight Beck Center](https://www.fightbeck.nl) Адрес: Tweede Weteringdwarsstraat 41H Amsterdam. Регистрация Shimi Beck +31629455162. [Facebook](https://www.facebook.com/FightBeck/). [Instagram](https://www.instagram.com/fight_beck/) Язык- английский.
 
+* Бесплатный пункт выдачи, склад-магазин: Amstelveen, Handweg 129. Время работы ежедневно: 10:00-18.00
+
+* Бесплатный пункт выдачи, склад-магазин: Amsterdam, Johan Huizingalaan 763A. Время работы ежедневно: 10:00-22.00
 
 ### Другие регионы
 
