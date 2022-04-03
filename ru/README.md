@@ -29,8 +29,6 @@
 
 ### Гаага и окрестности
 
-* 3 апреля украинские беженцы могут бесплатно взять различные товары. С 11:30 до 13:30 по адресу: Nijverheidsstraat 20, Rijswijk. [Информация](https://facebook.com/groups/500473288376950/permalink/507949124296033/)
-
 * Начата регистрация украинских деток в школы Гааги. Заполнить форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
 * Детский центр [Bamboe](https://www.kindcentrumbamboe.nl) предлагает уже сейчас украинским детям 7-12 лет места в субботней группе и детям 4-12 лет места в дневном летнем лагере, который пройдет с 11 по 28 июля. Контактная персона Raymond Been <rbeen@kindcentrumbamboe.nl> или 070 - 3662011 / 06 - 31792983 или [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
