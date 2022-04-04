@@ -14,14 +14,6 @@
 
 * [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
 
-* Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
-
-* Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
-
-* Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
-
-* Безкоштовні уроки анлійської мови для практики via Zoom, не для початківців [більше інформації](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
-
 * Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем. Зокрема, [Нідерландський інститут раку](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) буде приймати українців з онко-діагнозами або з підозрою на онкологію.
 
 * Kоманда психологів всеукраїнської лінії кол-центру [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) надає безкоштовні консультації усім, кому тривожно і хто не може самотужки впоратись з емоціями. 
@@ -29,12 +21,17 @@
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
 
 
-### Гаага та околицi
 
-* Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
+### Мовні курси
 
-* Дитячий центр [Bamboe](https://www.kindcentrumbamboe.nl) пропонує вже зараз українським дітям 7-12 років місця у суботній групі та дітям 4-12 років місця у денному літньому таборі, який пройде з 11 по 28 липня. Контактна особа Raymond Been <rbeen@kindcentrumbamboe.nl> чи 070 - 3662011 / 06 - 31792983 чи [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
- 
+* Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
+
+* Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
+
+* Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
+
+* Безкоштовні уроки анлійської мови для практики via Zoom, не для початківців [більше інформації](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
+
 * Kурс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/les-krijgen/centraal) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
 * Безкоштовні уроки анлійської мови щочетверга з 13:30 до 14:30 в het Kalhuis за адресою Badhuisstraat 177 Den Haag. Реєстрація обов'язкова <nicole.debruijn@welzijnscheveningen.nl>
@@ -42,6 +39,14 @@
 * Безкоштовний курс голландської мови у Гаазi за адресою Spui 85, Den Haag. Реєстрація Centrale Bibliotheek/Taalhuis <taalhuis@denhaag.nl> чи 06 13471408.
 
 * Безкоштовний курс голландської мови у Гаазi за адресою Hobbemaplein 30, Den Haag. Реєстрація Bibliotheek Transvaalkwartier <transvaalkwartier@bibliotheekdenhaag.nl> чи 070 3537851.
+
+
+
+### Гаага та околицi
+
+* Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
+
+* Дитячий центр [Bamboe](https://www.kindcentrumbamboe.nl) пропонує вже зараз українським дітям 7-12 років місця у суботній групі та дітям 4-12 років місця у денному літньому таборі, який пройде з 11 по 28 липня. Контактна особа Raymond Been <rbeen@kindcentrumbamboe.nl> чи 070 - 3662011 / 06 - 31792983 чи [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
 * Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
@@ -92,6 +97,7 @@
 * Безкоштовний пункт видачі, склад-магазин: Amstelveen, Handweg 129. Час роботи щоденно: 10:00-18.00
 
 * Безкоштовний пункт видачі, склад-магазин: Amsterdam, Johan Huizingalaan 763A. Час роботи щоденно: 10:00-22.00
+
 
 
 ### Iншi pегiони
