@@ -14,14 +14,6 @@
 
 * [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
 
-* Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
-
-* Бесплатный доступ к языковым [онлайн-школам](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
-
-* Разговорный онлайн-клуб украинского языка [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) каждое воскресенье в 18.00 (по Киеву) для всех уровней.
-
-* Бесплатные уроки английского языка для практики via Zoom, не для начинающих [больше информации](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
-
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
 * Команда психологов всеукраинской линии колл-центра [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) предоставляет бесплатные консультации всем, кому тревожно и кто не может самостоятельно справиться с эмоциями.
@@ -29,19 +21,32 @@
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
 
 
+
+### Языковые курсы
+
+* Разговорный онлайн-клуб украинского языка [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) каждое воскресенье в 18.00 (по Киеву) для всех уровней.
+
+* Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
+
+* Бесплатный доступ к языковым [онлайн-школам](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
+
+* Бесплатные уроки английского языка для практики via Zoom, не для начинающих [больше информации](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
+
+* Курс нидерландского языка в Гааге в школе [Taal aan zee](https://taalaanzee.nl/contact). [Приходите](https://taalaanzee.nl/les-krijgen/centraal) каждый вторник с 10:00 до 11:30 по адресу Calandstraat 1, Den Haag или пишите <info@taalaanzee.nl>.
+
+* Бесплатные уроки анлийского языка в Гааге каждый четверг с 13:30 до 14:30 в het Kalhuis, по адресу Badhuisstraat 177 Den Haag. Запись обязательна <nicole.debruijn@welzijnscheveningen.nl>.
+
+* Бесплатный курс нидерландского языка в Гааге по адресу Spui 85, Den Haag. Запись Centrale Bibliotheek/Taalhuis <taalhuis@denhaag.nl> или 06 13471408.
+
+* Бесплатный курс нидерландского языка в Гааге по адресу Hobbemaplein 30, Den Haag. Запись Bibliotheek Transvaalkwartier <transvaalkwartier@bibliotheekdenhaag.nl> или 070 3537851.
+
+
+
 ### Гаага и окрестности
 
 * Начата регистрация украинских деток в школы Гааги. Заполнить форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
 * Детский центр [Bamboe](https://www.kindcentrumbamboe.nl) предлагает уже сейчас украинским детям 7-12 лет места в субботней группе и детям 4-12 лет места в дневном летнем лагере, который пройдет с 11 по 28 июля. Контактная персона Raymond Been <rbeen@kindcentrumbamboe.nl> или 070 - 3662011 / 06 - 31792983 или [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
- 
-* Курс нидерландского языка в школе [Taal aan zee](https://taalaanzee.nl/contact). [Приходите](https://taalaanzee.nl/les-krijgen/centraal) каждый вторник с 10:00 до 11:30 по адресу Calandstraat 1, Den Haag или пишите <info@taalaanzee.nl>.
-
-* Бесплатные уроки анлийского языка каждый четверг с 13:30 до 14:30 в het Kalhuis, по адресу Badhuisstraat 177 Den Haag. Запись обязательна <nicole.debruijn@welzijnscheveningen.nl>.
-
-* Бесплатный курс нидерландского языка в Гааге по адресу Spui 85, Den Haag. Запись Centrale Bibliotheek/Taalhuis <taalhuis@denhaag.nl> или 06 13471408.
-
-* Бесплатный курс нидерландского языка в Гааге по адресу Hobbemaplein 30, Den Haag. Запись Bibliotheek Transvaalkwartier <transvaalkwartier@bibliotheekdenhaag.nl> или 070 3537851.
 
 * Сеть детских стоматологических клиник [Jeugd Tandzorg West](https://www.smile-west.com/) принимает бесплатно украинских детей. В первую очередь, с острой болью. Но прийти на осмотр также возможно.
 
