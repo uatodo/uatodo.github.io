@@ -32,9 +32,9 @@
 
 * Безкоштовні уроки анлійської мови для практики via Zoom, не для початківців [більше інформації](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
 
-* Kурс нідерландської мови в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/les-krijgen/centraal) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
+* Kурс нідерландської мови у Гаазi в школі [Taal aan zee](https://taalaanzee.nl/contact). Вартість 25 євро на рік. [Приходьте](https://taalaanzee.nl/les-krijgen/centraal) щовівторка з 10:00 до 11:30 адреса Calandstraat 1, Den Haag або пишіть <info@taalaanzee.nl>.
 
-* Безкоштовні уроки анлійської мови щочетверга з 13:30 до 14:30 в het Kalhuis за адресою Badhuisstraat 177 Den Haag. Реєстрація обов'язкова <nicole.debruijn@welzijnscheveningen.nl>
+* Безкоштовні уроки анлійської мови у Гаазi щочетверга з 13:30 до 14:30 в het Kalhuis за адресою Badhuisstraat 177 Den Haag. Реєстрація обов'язкова <nicole.debruijn@welzijnscheveningen.nl>
 
 * Безкоштовний курс голландської мови у Гаазi за адресою Spui 85, Den Haag. Реєстрація Centrale Bibliotheek/Taalhuis <taalhuis@denhaag.nl> чи 06 13471408.
 
