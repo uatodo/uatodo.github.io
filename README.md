@@ -8,7 +8,7 @@
 
 * Стартова [онлайн-платформа](https://www.refugeehelp.nl/get-help) для українських біженців у Нідерландах.
 
-* Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
+* <span class="new">new</span> Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
 * Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
