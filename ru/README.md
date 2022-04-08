@@ -20,6 +20,8 @@
 
 * Команда психологов всеукраинской линии колл-центра [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) предоставляет бесплатные консультации всем, кому тревожно и кто не может самостоятельно справиться с эмоциями.
 
+* <span class="new">new</span> Детский психолог, основатель центра [Puzzle](https://instagram.com/detskiy_puzzle?igshid=YmMyMTA2M2Y=). Консультации в Hидерландах для детей до 7 лет. Марина +380503561038.
+
 * <span class="new">new</span> [Психологическая помощь и поддержка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
 
 * <span class="new">new</span> Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
