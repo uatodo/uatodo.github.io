@@ -48,7 +48,7 @@
 
 * Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
-* <span class="new">new</span> Щопонеділка [MOC](https://www.mocschilderswijk.nl) проводить кавовий ранок на Teniersstraat 17 в Гаазі з 9.45 до 11.45 для дітей від 0 до 4 років з України та членів їх сімей. Знання голландської або англійської мови не потрібно.
+* <span class="new">new</span> Щопонеділка [MOC](https://www.mocschilderswijk.nl) проводить кавовий ранок на Teniersstraat 17 в Гаазі з 9.45 до 11.45 для дітей 0-4 років з України та членів їх сімей. Знання голландської або англійської мови не потрібно.
 
 * Дитячий центр [Bamboe](https://www.kindcentrumbamboe.nl) пропонує вже зараз українським дітям 7-12 років місця у суботній групі та дітям 4-12 років місця у денному літньому таборі, який пройде з 11 по 28 липня. Контактна особа Raymond Been <rbeen@kindcentrumbamboe.nl> чи 070 - 3662011 / 06 - 31792983 чи [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
