@@ -8,7 +8,7 @@
 
 * Cтартовая [онлайн-платформа](https://www.refugeehelp.nl/get-help) для украинских беженцев в Нидерладах.
 
-* Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
+* <span class="new">new</span> Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
 * Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
 
