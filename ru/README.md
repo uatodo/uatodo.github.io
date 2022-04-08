@@ -8,6 +8,8 @@
 
 * Cтартовая [онлайн-платформа](https://www.refugeehelp.nl/get-help) для украинских беженцев в Нидерладах.
 
+* Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
+
 * Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
 
 * Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
