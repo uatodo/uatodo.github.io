@@ -8,6 +8,8 @@
 
 * Стартова [онлайн-платформа](https://www.refugeehelp.nl/get-help) для українських біженців у Нідерландах.
 
+* Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
+
 * Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
 * Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
