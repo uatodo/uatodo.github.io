@@ -40,6 +40,8 @@
 
 * Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
+* <span class="new">new</span> Університет Делфта пропонує безкоштовний онлайн-курс голландської мови. [Детальніше](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/staff-departments/centre-for-languages-and-academic-skills/education/dutch-courses/courses/beginners-courses/online-beginners-course)
+
 * <span class="new">new</span> [Англійська](https://t.me/+1s_owWRGHU4zNWE0) для біженців.
 
 * Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
