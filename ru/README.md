@@ -28,6 +28,10 @@
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
 
+* <span class="new">new</span> Платформа для поиска работы в Европе [UПошуку](https://t.me/uposhuku) 
+
+* <span class="new">new</span> Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/)
+
 
 
 ### Языковые курсы
