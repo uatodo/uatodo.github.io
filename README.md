@@ -30,7 +30,7 @@
 
 * <span class="new">new</span> Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
 
-* <span class="new">new</span> Допомога з працевлаштуванням українцям-переселенцям у Нідерландах. [Детальніше](https://svoboda.legal)
+* <span class="new">new</span> Допомога з працевлаштуванням українцям-переселенцям у Нідерландах. [Детальніше](https://svoboda.legal).
 
 * <span class="new">new</span> Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku).
 
