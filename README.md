@@ -28,9 +28,9 @@
 
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
 
-* <span class="new">new</span> Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku) 
+* <span class="new">new</span> Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku).
 
-* <span class="new">new</span> Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/)
+* <span class="new">new</span> Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
 
 
 
@@ -39,6 +39,8 @@
 * Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
 
 * Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
+
+* <span class="new">new</span> [Англійська](https://t.me/+1s_owWRGHU4zNWE0) для біженців.
 
 * Безкоштовний доступ до мовних [онлайн-шкіл](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
 
