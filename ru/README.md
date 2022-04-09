@@ -113,7 +113,7 @@
 
 * [Театральная студия](https://www.instagram.com/p/CbfL_dSK7hH/) предлагает занятия для украинских детей с 7 до 12 лет в Амстердаме. [Запись](https://www.instagram.com/go_sonya/)
 
-* Бесплатные групповые занятия спортом для украинских женщин и детей в [Fight Beck Center](https://www.fightbeck.nl) Адрес: Tweede Weteringdwarsstraat 41H Amsterdam. Регистрация Shimi Beck +31629455162. [Facebook](https://www.facebook.com/FightBeck/). [Instagram](https://www.instagram.com/fight_beck/) Язык- английский.
+* <span class="new">new</span> Бесплатные групповые занятия спортом для украинских женщин в [Fight Beck Center](https://www.fightbeck.nl) Адрес: Tweede Weteringdwarsstraat 41H Amsterdam. Регистрация +380978589807.
 
 * Бесплатный пункт выдачи, склад-магазин: Amstelveen, Handweg 129. Время работы ежедневно: 10:00-18.00
 
