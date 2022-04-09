@@ -40,6 +40,8 @@
 
 * Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
+* <span class="new">new</span> [Английский](https://t.me/+1s_owWRGHU4zNWE0) для украинских беженцев.
+
 * Бесплатный доступ к языковым [онлайн-школам](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
 
 * Бесплатные уроки английского языка для практики via Zoom, не для начинающих [больше информации](https://www.facebook.com/groups/653142422642785/permalink/664996308124063/?sfnsn=mo&ref=share).
