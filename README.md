@@ -28,6 +28,10 @@
 
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
 
+* <span class="new">new</span> Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku) 
+
+* <span class="new">new</span> Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/)
+
 
 
 ### Мовні курси
