@@ -30,7 +30,7 @@
 
 * <span class="new">new</span> Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
 
-* <span class="new">new</span> Помощь в трудоустройстве украинцам-переселенцам в Нидерландах. [Подробнее](https://svoboda.legal)
+* <span class="new">new</span> Помощь в трудоустройстве украинцам-переселенцам в Нидерландах. [Подробнее](https://svoboda.legal).
 
 * <span class="new">new</span> Платформа для поиска работы в Европе [UПошуку](https://t.me/uposhuku).
 
