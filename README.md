@@ -18,23 +18,25 @@
 
 * Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем. Зокрема, [Нідерландський інститут раку](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) буде приймати українців з онко-діагнозами або з підозрою на онкологію.
 
+* <span class="new">new</span> Безкоштовні консультації дипламованих лікарів, у тому числі психологів. [еЗдоровье](https://okdoc.me).
+
 * Kоманда психологів всеукраїнської лінії кол-центру [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) надає безкоштовні консультації усім, кому тривожно і хто не може самотужки впоратись з емоціями. 
 
-* <span class="new">new</span> Психолог, фундатор дитячого центру [Puzzle](https://instagram.com/detskiy_puzzle?igshid=YmMyMTA2M2Y=). Консультації в Hiдерландах для дітей віком до 7 років. Марина +380503561038.
+* Психолог, фундатор дитячого центру [Puzzle](https://instagram.com/detskiy_puzzle?igshid=YmMyMTA2M2Y=). Консультації в Hiдерландах для дітей віком до 7 років. Марина +380503561038.
 
-* <span class="new">new</span> [Психологічна допомога та підтримка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
+* [Психологічна допомога та підтримка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
 
 * <span class="new">new</span> Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
 
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
 
-* <span class="new">new</span> Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
+* Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
 
-* <span class="new">new</span> Допомога з працевлаштуванням українцям-переселенцям у Нідерландах. [Детальніше](https://svoboda.legal).
+* Допомога з працевлаштуванням українцям-переселенцям у Нідерландах. [Детальніше](https://svoboda.legal).
 
-* <span class="new">new</span> Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku).
+* Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku).
 
-* <span class="new">new</span> Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
+* Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
 
 
 
