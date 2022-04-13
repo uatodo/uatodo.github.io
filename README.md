@@ -72,6 +72,8 @@
 
 * Дитячий центр [Bamboe](https://www.kindcentrumbamboe.nl) пропонує вже зараз українським дітям 7-12 років місця у суботній групі та дітям 4-12 років місця у денному літньому таборі, який пройде з 11 по 28 липня. Контактна особа Raymond Been <rbeen@kindcentrumbamboe.nl> чи 070 - 3662011 / 06 - 31792983 чи [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
+* <span class="new">new</span> [Haags KunstAtelier](https://www.haagskunstatelier.nl) пропонує творчі зустрічі для українських дітей та батьків. Щочетверга з 9:30 до 12:00. Запис <info@haagskunstatelier.nl> або 0618340195.
+
 * Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
 * [Мадюродам](https://www.madurodam.nl/ru) в Гаазі вхід €2,5 при пред'явленні українського паспорта.
