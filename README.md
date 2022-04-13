@@ -93,6 +93,8 @@
 
 
 ### Амстердам та околицi
+
+* <span class="new">new</span> Kонсерваторія амстердаму [пропонує](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
  
 * Організація "Громадські бібліотеки Амстердаму" спеціально для українців [пропонує](https://www.oba.nl/actueel/Ukraine.html), також організувала [фотовиставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вхід вільний.
 
