@@ -72,6 +72,8 @@
 
 * Детский центр [Bamboe](https://www.kindcentrumbamboe.nl) предлагает уже сейчас украинским детям 7-12 лет места в субботней группе и детям 4-12 лет места в дневном летнем лагере, который пройдет с 11 по 28 июля. Контактная персона Raymond Been <rbeen@kindcentrumbamboe.nl> или 070 - 3662011 / 06 - 31792983 или [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
+* <span class="new">new</span> [Haags KunstAtelier](https://www.haagskunstatelier.nl) предлагает творческие встречи для для украинских детей и их родитей. По четвергам с 9:30 до 12:00. Запись <info@haagskunstatelier.nl> или 0618340195.
+
 * Сеть детских стоматологических клиник [Jeugd Tandzorg West](https://www.smile-west.com/) принимает бесплатно украинских детей. В первую очередь, с острой болью. Но прийти на осмотр также возможно.
 
 * [Мадюродам](https://www.madurodam.nl/ru) в Гааге вход €2,5 по предъявлению украинского паспорта.
