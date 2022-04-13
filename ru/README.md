@@ -92,6 +92,8 @@
 
 
 ### Амстердам и окрестности
+
+* <span class="new">new</span> Kонсерватория Амстердама [предлагает](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
  
 * Организация "Общественные библиотеки Амстердама" специально для украинцев [предлагает](https://www.oba.nl/actueel/Ukraine.html), а также организовала [фотовыставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вход свободный. 
 
