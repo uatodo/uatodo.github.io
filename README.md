@@ -42,6 +42,8 @@
 
 ### Мовні курси
 
+* <span class="new">new</span>  Отельная школа Гааги приглашает на бесплатный онлайн курс английского языка. [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSfm9YfzSqklBNoKJ1FwshoFu162bsvPWP7U2GJCn6MOy6gShg/viewform) на курс до 17 апреля.
+
 * <span class="new">new</span> Прямий онлайн переклад вашої розмови. [Докладніше](https://www.pryv.it/).
 
 * Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
