@@ -128,9 +128,9 @@
 
 * <span class="new">new</span> Безкоштовні групові заняття спортом для українських жінок у [Fight Beck Center](https://www.fightbeck.nl) Адреса: Tweede Weteringdwarsstraat 41H Amsterdam. Реєстрація за номером телефону +380978589807.
 
-* Безкоштовний пункт видачі, склад-магазин: Amstelveen, Handweg 129. Час роботи щоденно: 10:00-18.00
+* Безкоштовний склад-магазин: Amstelveen, Handweg 129. Час роботи щоденно: 10:00-18.00
 
-* Безкоштовний пункт видачі, склад-магазин: Amsterdam, Johan Huizingalaan 763A. Час роботи щоденно: 10:00-22.00
+* Безкоштовний склад-магазин: Amsterdam, Johan Huizingalaan 763A. Час роботи щоденно: 10:00-22.00
 
 
 
