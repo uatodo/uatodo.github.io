@@ -42,6 +42,8 @@
 
 ### Языковые курсы
 
+* <span class="new">new</span> Отельная школа Гааги приглашает на бесплатный онлайн курс английского языка. [Регистрация](https://docs.google.com/forms/d/e/1FAIpQLSfm9YfzSqklBNoKJ1FwshoFu162bsvPWP7U2GJCn6MOy6gShg/viewform) на курс до 17 апреля.
+
 * <span class="new">new</span> Прямой онлайн перевод вашего разговора. [Подробнее](https://www.pryv.it/). 
 
 * Разговорный онлайн-клуб украинского языка [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) каждое воскресенье в 18.00 (по Киеву) для всех уровней.
