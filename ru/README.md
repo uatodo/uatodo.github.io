@@ -42,6 +42,8 @@
 
 ### Языковые курсы
 
+* <span class="new">new</span> Прямой онлайн перевод вашего разговора. [Подробнее](https://www.pryv.it/) 
+
 * Разговорный онлайн-клуб украинского языка [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) каждое воскресенье в 18.00 (по Киеву) для всех уровней.
 
 * Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
