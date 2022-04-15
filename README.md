@@ -42,7 +42,7 @@
 
 ### Мовні курси
 
-* <span class="new">new</span>  
+* <span class="new">new</span> Готельна школа Гааги запрошує на безкоштовний онлайн курс англійської мови. [Реєстрація](https://docs.google.com/forms/d/e/1FAIpQLSfm9YfzSqklBNoKJ1FwshoFu162bsvPWP7U2GJCn6MOy6gShg/viewform) на курс до 17 квітня.
 
 * <span class="new">new</span> Прямий онлайн переклад вашої розмови. [Докладніше](https://www.pryv.it/).
 
