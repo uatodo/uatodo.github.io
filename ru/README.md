@@ -22,21 +22,21 @@
 
 * Команда психологов всеукраинской линии колл-центра [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) предоставляет бесплатные консультации всем, кому тревожно и кто не может самостоятельно справиться с эмоциями.
 
-* <span class="new">new</span> Психолог, основатель детского центра [Puzzle](https://instagram.com/detskiy_puzzle?igshid=YmMyMTA2M2Y=). Консультации в Hидерландах для детей до 7 лет. Марина +380503561038.
+* Психолог, основатель детского центра [Puzzle](https://instagram.com/detskiy_puzzle?igshid=YmMyMTA2M2Y=). Консультации в Hидерландах для детей до 7 лет. Марина +380503561038.
 
-* <span class="new">new</span> [Психологическая помощь и поддержка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
+* [Психологическая помощь и поддержка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
 
 * <span class="new">new</span> Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
 
-* <span class="new">new</span> Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
+* Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
 
-* <span class="new">new</span> Помощь в трудоустройстве украинцам-переселенцам в Нидерландах. [Подробнее](https://svoboda.legal).
+* Помощь в трудоустройстве украинцам-переселенцам в Нидерландах. [Подробнее](https://svoboda.legal).
 
-* <span class="new">new</span> Платформа для поиска работы в Европе [UПошуку](https://t.me/uposhuku).
+* Платформа для поиска работы в Европе [UПошуку](https://t.me/uposhuku).
 
-* <span class="new">new</span> Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
+* Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
 
 
 
