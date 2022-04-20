@@ -16,6 +16,8 @@
 
 * [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
 
+* <span class="new">new</span> [Очна асоціація нідерландів](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) допомагає українцям із проблемами очей. Пишіть українською або російською <nina.spodina@oogvereniging.nl>.
+
 * Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем. Зокрема, [Нідерландський інститут раку](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) буде приймати українців з онко-діагнозами або з підозрою на онкологію.
 
 * <span class="new">new</span> Безкоштовні консультації дипламованих лікарів, у тому числі психологів. [еЗдоровье](https://okdoc.me).
