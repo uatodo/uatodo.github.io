@@ -98,7 +98,9 @@
 
 ### Амстердам та околицi
 
-* <span class="new">new</span> Kонсерваторія Амстердаму [пропонує](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
+* <span class="new">new</span> Amsterdam Museum пропонує безкоштовний вхід для українців. Забронювати квитки можна [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), 4 квитки максимум при 1 бронюванні, промокод: WELCOMETOAMS2022. Той самий кол дійсний для візиту в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
+
+* Kонсерваторія Амстердаму [пропонує](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
  
 * Організація "Громадські бібліотеки Амстердаму" спеціально для українців [пропонує](https://www.oba.nl/actueel/Ukraine.html), також організувала [фотовиставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вхід вільний.
 
