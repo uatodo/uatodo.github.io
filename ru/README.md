@@ -16,6 +16,8 @@
 
 * [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
 
+* <span class="new">new</span> [Глазная ассоциация Нидердандов](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) помогает украинцам с проблемами глаз. Пишите на украинском или русском <nina.spodina@oogvereniging.nl>.
+
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
 * <span class="new">new</span> Бесплатные консультации дипломированных врачей, в том числе психологов [еЗдоровье](https://okdoc.me).
