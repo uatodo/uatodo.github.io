@@ -32,9 +32,19 @@
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
 
+* Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
+
+* <span class="new">new</span> [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+
+
+
+### Работа
+
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
 * <span class="new">new</span> Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
+
+* <span class="new">new</span> Онлайн супермаркет Picnic приглашает украинцев на [работу](https://picnic.app/jobs/nl/magazijnmedewerker/). Минимальное знание английского.
 
 * Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
 
@@ -42,9 +52,8 @@
 
 * Платформа для поиска работы в Европе [UПошуку](https://t.me/uposhuku).
 
-* Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
+* <span class="new">new</span> Помощь в поиске [работы](https://uarecruit.eu/ukrainians/).
 
-* <span class="new">new</span> [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
 
 
