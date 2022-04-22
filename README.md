@@ -44,7 +44,7 @@
 
 * Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
 
-* <span class="new">new</span> [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne)
+* <span class="new">new</span> [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
 
 
