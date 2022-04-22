@@ -32,7 +32,9 @@
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
 
-* <span class="new">new</span> Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
+* Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
+
+* <span class="new">new</span> Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
 
 * Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
 
