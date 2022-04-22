@@ -8,9 +8,9 @@
 
 * Cтартовая [онлайн-платформа](https://www.refugeehelp.nl/get-help) для украинских беженцев в Нидерладах.
 
-* <span class="new">new</span> Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
+* Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502.
 
-* Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502
+* <span class="new">new</span> Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
 
 * Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
 
@@ -31,6 +31,8 @@
 * <span class="new">new</span> Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
+
+* <span class="new">new</span> Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
 * Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
 
