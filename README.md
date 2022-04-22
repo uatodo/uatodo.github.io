@@ -32,9 +32,19 @@
 
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
 
+* Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
+
+* <span class="new">new</span> [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+
+
+
+### Робота
+
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
 * <span class="new">new</span> Українських біженців запрошують на роботу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Iнформація українською внизу сторінки. 
+
+* <span class="new">new</span> Онлайн супермаркет Picnic запрошують українців на [роботу](https://picnic.app/jobs/nl/magazijnmedewerker/). Мінімальне знання англійської.
 
 * Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
 
@@ -42,9 +52,7 @@
 
 * Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku).
 
-* Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
-
-* <span class="new">new</span> [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+* <span class="new">new</span> Допомога у пошуку [роботи](https://uarecruit.eu/ukrainians/).
 
 
 
