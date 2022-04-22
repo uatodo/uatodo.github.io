@@ -44,7 +44,7 @@
 
 * <span class="new">new</span> Українських біженців запрошують на роботу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Iнформація українською внизу сторінки. 
 
-* <span class="new">new</span> Онлайн супермаркет Picnic запрошують українців на [роботу](https://picnic.app/jobs/nl/magazijnmedewerker/). Мінімальне знання англійської. Утрехті можлива робота без знання анлійського. В Утрехте возможна работа без знания английского.
+* <span class="new">new</span> Онлайн супермаркет Picnic запрошують українців на [роботу](https://picnic.app/jobs/nl/magazijnmedewerker/). Мінімальне знання англійської. Утрехті можлива робота без знання анлійського.
 
 * Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
 
