@@ -8,9 +8,9 @@
 
 * Стартова [онлайн-платформа](https://www.refugeehelp.nl/get-help) для українських біженців у Нідерландах.
 
-* <span class="new">new</span> Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
-
 * Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
+
+* <span class="new">new</span> Пошук [домашнього лікаря](https://huisartsvoorvluchteling.nl). Медичні працівники з України бажаючі допомогти можуть писати <contact@huisartsvoorvluchteling.nl>. 
 
 * Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
 
@@ -31,6 +31,8 @@
 * <span class="new">new</span> Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
 
 * Тимчасове місце проживання для біженцям з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
+
+* Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
 * Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
 
