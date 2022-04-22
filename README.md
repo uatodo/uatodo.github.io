@@ -34,6 +34,8 @@
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
+* <span class="new">new</span> Українських біженців запрошують на роботу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Iнформація українською внизу сторінки. 
+
 * Допомога у пошуку роботи для українських вчених у Нідерландах. [Детальніше](https://delftacademia.org/job.22100208.434).
 
 * Допомога з працевлаштуванням українцям-переселенцям у Нідерландах. [Детальніше](https://svoboda.legal).
