@@ -44,6 +44,8 @@
 
 * Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
 
+* <span class="new">new</span> [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne)
+
 
 
 ### Языковые курсы
