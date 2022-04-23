@@ -4,7 +4,16 @@
 
 ---
 
-### Общая информция
+* [Общая информция](#general)
+* [Работа](#job)
+* [Языковые курсы](#lang)
+* [Гаага и окрестности](#the-hague)
+* [Амстердам и окрестности](#amsterdam)
+* [Другие регионы](#other-regions)
+
+---
+
+<h3 id="general">Общая информция</h3>
 
 * Cтартовая [онлайн-платформа](https://www.refugeehelp.nl/get-help) для украинских беженцев в Нидерладах.
 
@@ -38,7 +47,7 @@
 
 
 
-### Работа
+<h3 id="job">Работа</h3>
 
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
@@ -56,8 +65,7 @@
 
 
 
-
-### Языковые курсы
+<h3 id="lang">Языковые курсы</h3>
 
 * <span class="new">new</span> Прямой онлайн перевод вашего разговора. [Подробнее](https://www.pryv.it/). 
 
@@ -83,7 +91,7 @@
 
 
 
-### Гаага и окрестности
+<h3 id="the-hague">Гаага и окрестности</h3>
 
 * Начата регистрация украинских деток в школы Гааги. Заполнить форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
@@ -112,7 +120,8 @@
 * Wessel van der Donk приглашает украинцев старше 16 лет каждое воскресенье с 14:30 играть в футбол в [Westbroekpark](https://www.google.com/maps/place/52°06'12.0%22N+4°17'31.7%22E/@52.1033333,4.2899502,17z/data=!3m1!4b1!4m6!3m5!1s0x0:0xdee9c020a8b3c1bc!7e2!8m2!3d52.1033398!4d4.2921466). Бесплатно.  
 
 
-### Амстердам и окрестности
+
+<h3 id="amsterdam">Амстердам и окрестности</h3>
 
 * <span class="new">new</span> Amsterdam Museum предлагает бесплатный вход для украинцев. Забронировать билеты [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), максимум 4 билета при одном бронировании, промокод: WELCOMETOAMS2022. Этот же код действителен в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
 
@@ -148,7 +157,9 @@
 
 * Бесплатный склад-магазин: Amsterdam, Johan Huizingalaan 763A. Время работы ежедневно: 10:00-22.00
 
-### Другие регионы
+
+
+<h3 id="other-regions">Другие регионы</h3>
 
 * [Занский музей](https://zaansmuseum.nl/zien-doen/gratis-toegang-voor-mensen-uit-oekraine/) и дом царя Петра Первого в Зандаме бесплатно для украинцев при предъявлении паспорта. 
 
@@ -159,7 +170,6 @@
 * Встречи для украинской творческий молодежи(14+) каждый четверг с 14:00 до 16:00 в художественной студии в [Хаарлеме](https://www.instagram.com/artstart.haarlem/). Запись <artstart.haarlem@gmail.com>
 
 * Парки группы [PLOPSA](https://www.looopings.nl/weblog/19175/Gevluchte-Oekraiense-kinderen-mogen-gratis-naar-Plopsa-parken.html): бесплатный вход для детей до 14 лет и 40% скидка для тех кто старше при придьявлении украинского паспорта. [Сайт парка](https://www.plopsaindoorcoevorden.nl/nl)
-
 
 
 ---
