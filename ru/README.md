@@ -39,7 +39,7 @@
 
 * <span class="new">new</span> Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
-* Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html?auth_success=1).
+* Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html).
 
 * Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
 
