@@ -39,7 +39,7 @@
 
 * <span class="new">new</span> Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
 
-* Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html?auth_success=1&tmpl=deal_finder&soz=1&lang_changed=1&lang=uk&sid=43ef49cada7ff35903a3222072ca247b&lang_click=other&label=gen173nr-1DCCUoggI46AdIIVgEaKkBiAEBmAEhuAEHyAEN2AED6AEB-AEDiAIBqAIDuALz-qSSBsACAdICJDZjMWJiN2E3LWZhMWUtNDZlMy05NGVlLWJlZjBlOGZlMjk1ONgCBOACAQ&cdl=ru).
+* Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html).
 
 * Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
 
