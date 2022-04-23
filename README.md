@@ -4,7 +4,16 @@
 
 ---
 
-### Загальна інформація 
+* [Загальна інформація](#general)
+* [Робота](#job)
+* [Мовні курси](#lang)
+* [Гаага та околицi](#the-hague)
+* [Амстердам та околицi](#amsterdam)
+* [Iншi pегiони](#other-regions)
+
+---
+
+<h3 id="general">Загальна інформація</h3>
 
 * Стартова [онлайн-платформа](https://www.refugeehelp.nl/get-help) для українських біженців у Нідерландах.
 
@@ -38,7 +47,7 @@
 
 
 
-### Робота
+<h3 id="job">Робота</h3>
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
@@ -56,7 +65,7 @@
 
 
 
-### Мовні курси
+<h3 id="lang">Мовні курси</h3>
 
 * <span class="new">new</span> Прямий онлайн переклад вашої розмови. [Докладніше](https://www.pryv.it/).
 
@@ -82,7 +91,7 @@
 
 
 
-### Гаага та околицi
+<h3 id="the-hague">Гаага та околицi</h3>
 
 * Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
@@ -112,7 +121,7 @@
 
 
 
-### Амстердам та околицi
+<h3 id="amsterdam">Амстердам та околицi</h3>
 
 * <span class="new">new</span> Amsterdam Museum пропонує безкоштовний вхід для українців. Забронювати квитки можна [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), 4 квитки максимум при 1 бронюванні, промокод: WELCOMETOAMS2022. Той самий код дійсний для візиту в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
 
@@ -150,7 +159,7 @@
 
 
 
-### Iншi pегiони
+<h3 id="other-regions">Iншi pегiони</h3>
 
 * [Занський музей](https://zaansmuseum.nl/zien-doen/gratis-toegang-voor-mensen-uit-oekraine/) та будинок царя Петра Першого в Зандамі безкоштовно для українців при пред'явленні паспорта.
 
