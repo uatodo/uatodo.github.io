@@ -63,6 +63,8 @@
 
 * <span class="new">new</span> Допомога у пошуку [роботи](https://uarecruit.eu/ukrainians/).
 
+* <span class="new">new</span> [Чат](https://t.me/BeautyMasterNL) бьюті-майстрів з України в Нідерландах.
+
 
 
 <h3 id="lang">Мовні курси</h3>
