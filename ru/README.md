@@ -69,15 +69,15 @@
 
 <h3 id="lang">Языковые курсы</h3>
 
-* <span class="new">new</span> Прямой онлайн перевод вашего разговора. [Подробнее](https://www.pryv.it/). 
+* Прямой онлайн перевод вашего разговора. [Подробнее](https://www.pryv.it/). 
 
 * Разговорный онлайн-клуб украинского языка [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) каждое воскресенье в 18.00 (по Киеву) для всех уровней.
 
 * Университет Гронингена предлагает бесплатный онлайн-курс голландского языка для начинающих. [Подробнее](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
-* <span class="new">new</span> Университет Делфта предлагает бесплатный онлайн-курс голландского языка. [Подробнее](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/staff-departments/centre-for-languages-and-academic-skills/education/dutch-courses/courses/beginners-courses/online-beginners-course).
+* Университет Делфта предлагает бесплатный онлайн-курс голландского языка. [Подробнее](https://www.tudelft.nl/en/tpm/about-the-faculty/departments/staff-departments/centre-for-languages-and-academic-skills/education/dutch-courses/courses/beginners-courses/online-beginners-course).
 
-* <span class="new">new</span> [Английский](https://t.me/+1s_owWRGHU4zNWE0) для украинских беженцев.
+* [Английский](https://t.me/+1s_owWRGHU4zNWE0) для украинских беженцев.
 
 * Бесплатный доступ к языковым [онлайн-школам](https://www.instagram.com/p/Cbo__KADZ-w/?utm_medium=share_sheet).
 
@@ -101,7 +101,7 @@
 
 * Детский центр [Bamboe](https://www.kindcentrumbamboe.nl) предлагает уже сейчас украинским детям 7-12 лет места в субботней группе и детям 4-12 лет места в дневном летнем лагере, который пройдет с 11 по 28 июля. Контактная персона Raymond Been <rbeen@kindcentrumbamboe.nl> или 070 - 3662011 / 06 - 31792983 или [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
-* <span class="new">new</span> [Haags KunstAtelier](https://www.haagskunstatelier.nl) предлагает творческие встречи для для украинских детей и их родитей. По четвергам с 9:30 до 12:00. Запись <info@haagskunstatelier.nl> или 0618340195.
+* [Haags KunstAtelier](https://www.haagskunstatelier.nl) предлагает творческие встречи для для украинских детей и их родитей. По четвергам с 9:30 до 12:00. Запись <info@haagskunstatelier.nl> или 0618340195.
 
 * Сеть детских стоматологических клиник [Jeugd Tandzorg West](https://www.smile-west.com/) принимает бесплатно украинских детей. В первую очередь, с острой болью. Но прийти на осмотр также возможно.
 
