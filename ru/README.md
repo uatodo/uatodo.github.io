@@ -163,6 +163,8 @@
 
 <h3 id="other-regions">Другие регионы</h3>
 
+* <span class="new">new</span> Музей [Singer Laren](https://www.singerlaren.nl/nl/) бесплатно при наличии паспорта. Бронировать <kassa@singerlaren.nl> или  0355393933. 
+
 * [Занский музей](https://zaansmuseum.nl/zien-doen/gratis-toegang-voor-mensen-uit-oekraine/) и дом царя Петра Первого в Зандаме бесплатно для украинцев при предъявлении паспорта. 
 
 * Зоопарк [Ouwehand](https://www.ouwehand.nl/) вход по предъявлению украинского паспорта беплатно.
