@@ -131,6 +131,8 @@
  
 * Організація "Громадські бібліотеки Амстердаму" спеціально для українців [пропонує](https://www.oba.nl/actueel/Ukraine.html), також організувала [фотовиставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вхід вільний.
 
+* <span class="new">new</span> Публічна бібліотека Амстердама організовуємо безкоштовні заходи для дітей та молоді, такі як виготовлення роботів та друк футболок. [Реєстрація](https://forms.office.com/pages/responsepage.aspx?id=1xCYVQeFWEa5OJUME0K6eVxAE_xgd8hEuW9PU0WgWPFUQzJFMlI4S1FGVkxVMTdUNjJJQUNFUDFWSC4u).
+
 * Зоопарк в м. Амстердам [Artis](https://www.artis.nl/nl/) безкоштовний вхід при пред'явленні українського паспорта. 
 
 * Безкоштовні розваги для дітей в [Амстердамі](https://www.instagram.com/p/CbcQmxYgkbr/?utm_medium=copy_link).
