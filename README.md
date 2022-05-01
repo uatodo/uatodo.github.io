@@ -172,6 +172,8 @@
 
 * <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
 
+* <span class="new">new</span> [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) пропонує всім, хто хоче вивчати нідерландську мову щочетверга 10:00-12:00. Адреса: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
+
 
 
 
