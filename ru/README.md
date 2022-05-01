@@ -167,7 +167,15 @@
 
 
 
+<h3 id="rotterdam">Роттердам та околицi</h3>
+
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
+
+
+
 <h3 id="other-regions">Другие регионы</h3>
+
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины в Дордрехте.
 
 * <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) бесплатно для проживающих в Arnhem и окрестностях, при наличии паспорта. 
 
