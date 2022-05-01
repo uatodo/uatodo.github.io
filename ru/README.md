@@ -174,6 +174,8 @@
 
 * <span class="new">new</span> [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) предлагает всем, кто хочет изучать нидерландский каждый четверг 10:00-12:00. Адрес: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
 
+* <span class="new">new</span> [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/en) музей архитектуры, дизайна и цифровой культуры предлагает бесплатный вход для украинцев по предъявлению паспорта на кассе.
+
 
 
 <h3 id="other-regions">Другие регионы</h3>
