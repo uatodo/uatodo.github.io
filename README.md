@@ -9,6 +9,7 @@
 * [Мовні курси](#lang)
 * [Гаага та околицi](#the-hague)
 * [Амстердам та околицi](#amsterdam)
+* [Роттерадм та околицi](#rotterdam)
 * [Iншi pегiони](#other-regions)
 
 ---
@@ -127,7 +128,9 @@
 
 <h3 id="amsterdam">Амстердам та околицi</h3>
 
-* <span class="new">new</span> Amsterdam Museum пропонує безкоштовний вхід для українців. Забронювати квитки можна [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), 4 квитки максимум при 1 бронюванні, промокод: WELCOMETOAMS2022. Той самий код дійсний для візиту в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
+
+* Amsterdam Museum пропонує безкоштовний вхід для українців. Забронювати квитки можна [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), 4 квитки максимум при 1 бронюванні, промокод: WELCOMETOAMS2022. Той самий код дійсний для візиту в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
 
 * Kонсерваторія Амстердаму для біженців музичних студентів [пропонує](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
  
@@ -165,7 +168,16 @@
 
 
 
+<h3 id="rotterdam">Роттердам та околицi</h3>
+
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
+
+
+
+
 <h3 id="other-regions">Iншi pегiони</h3>
+
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України в Дордрехт.
 
 * <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) безкоштовно для проживаючих в Arnhem та окрестонсях, при наявності паспорта. 
 
