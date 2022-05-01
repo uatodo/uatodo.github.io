@@ -32,7 +32,9 @@
 
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
-* <span class="new">new</span> Бесплатные консультации дипломированных врачей, в том числе психологов [еЗдоровье](https://okdoc.me).
+* <span class="new">new</span> [Онлайн-платформа Лікарі](https://likari.net.ua) для дистанционных медицинских консультаций с украинскими врачами и клиниками.
+
+* Бесплатные консультации дипломированных врачей, в том числе психологов [еЗдоровье](https://okdoc.me).
 
 * Команда психологов всеукраинской линии колл-центра [#ВАРТОЖИТИ](https://vartozhyty.com.ua/oncopsychologyhelp) предоставляет бесплатные консультации всем, кому тревожно и кто не может самостоятельно справиться с эмоциями.
 
@@ -130,7 +132,7 @@
 
 * <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
 
-* <span class="new">new</span> Amsterdam Museum предлагает бесплатный вход для украинцев. Забронировать билеты [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), максимум 4 билета при одном бронировании, промокод: WELCOMETOAMS2022. Этот же код действителен в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
+* Amsterdam Museum предлагает бесплатный вход для украинцев. Забронировать билеты [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), максимум 4 билета при одном бронировании, промокод: WELCOMETOAMS2022. Этот же код действителен в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
 
 * Kонсерватория Амстердама для беженцев музыкальных студентов [предлагает](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
  
