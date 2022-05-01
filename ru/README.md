@@ -19,6 +19,8 @@
 
 * Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502.
 
+* <span class="new">new</span> [Goods4Ukraine](https://goods4ukraine.eu) объединяет спрос и предложение, чтобы помочь беженцам найти все необходимое.
+
 * <span class="new">new</span> Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
 
 * Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
