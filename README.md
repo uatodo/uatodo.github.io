@@ -177,7 +177,7 @@
 
 <h3 id="other-regions">Iншi pегiони</h3>
 
-* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України в Дордрехт.
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України в Дордрехтi.
 
 * <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) безкоштовно для проживаючих в Arnhem та окрестонсях, при наявності паспорта. 
 
