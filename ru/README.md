@@ -178,6 +178,8 @@
 
 * <span class="new">new</span> [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/en) музей архитектуры, дизайна и цифровой культуры предлагает бесплатный вход для украинцев по предъявлению паспорта на кассе.
 
+* <span class="new">new</span> Театральная студия для детей и подростков. Адрес: Mathenesserdijk 293, Rotterdam. Запись через telegram @milena_act. 
+
 
 
 <h3 id="other-regions">Другие регионы</h3>
