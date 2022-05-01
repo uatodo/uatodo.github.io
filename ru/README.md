@@ -9,6 +9,7 @@
 * [Языковые курсы](#lang)
 * [Гаага и окрестности](#the-hague)
 * [Амстердам и окрестности](#amsterdam)
+* [Роттердам и окрестности](#rotterdam)
 * [Другие регионы](#other-regions)
 
 ---
@@ -167,9 +168,11 @@
 
 
 
-<h3 id="rotterdam">Роттердам та околицi</h3>
+<h3 id="rotterdam">Роттердам и окрестности</h3>
 
 * <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
+
+* <span class="new">new</span> [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) предлагает всем, кто хочет изучать нидерландский каждый четверг 10:00-12:00. Адрес: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
 
 
 
