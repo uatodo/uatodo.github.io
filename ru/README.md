@@ -127,6 +127,8 @@
 
 <h3 id="amsterdam">Амстердам и окрестности</h3>
 
+* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
+
 * <span class="new">new</span> Amsterdam Museum предлагает бесплатный вход для украинцев. Забронировать билеты [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), максимум 4 билета при одном бронировании, промокод: WELCOMETOAMS2022. Этот же код действителен в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
 
 * Kонсерватория Амстердама для беженцев музыкальных студентов [предлагает](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
