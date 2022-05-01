@@ -184,6 +184,8 @@
 
 <h3 id="other-regions">Другие регионы</h3>
 
+* <span class="new">new</span> Клініка [Salbar Fysiotherapie](https://salbar-fysiotherapie.business.site) предоставляет бесплатную физиотерапию детям до 18 лет. Адрес: Scholeksterlaan 86, Vinkeveen. Для записи и вопросов обращайтесь к Валерии в WhatsApp: +380634579823.
+
 * <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины в Дордрехте.
 
 * <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) бесплатно для проживающих в Arnhem и окрестностях, при наличии паспорта. 
