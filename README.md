@@ -132,6 +132,8 @@
 
 * <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
 
+* [Rijksmuseum](https://www.rijksmuseum.nl/nl) організовують недільні зустрічі та тури музеєм, бронювати <Educatie@rijksmuseum.nl>. В будні безкоштовний вхід при пред'явленні українського паспорта.
+
 * Amsterdam Museum пропонує безкоштовний вхід для українців. Забронювати квитки можна [online](https://tickets.hermitage.nl/Exhibitions/Register?id=B3360C62-B194-EC11-8155-000C29FE75C1), 4 квитки максимум при 1 бронюванні, промокод: WELCOMETOAMS2022. Той самий код дійсний для візиту в [House Willet-Holthuysen](https://tickets.amsterdammuseum.nl/?lang=nl). 
 
 * Kонсерваторія Амстердаму для біженців музичних студентів [пропонує](https://www.conservatoriumvanamsterdam.nl/cva-reachout/).
