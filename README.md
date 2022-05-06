@@ -54,7 +54,7 @@
 
 <h3 id="job">Робота</h3>
 
-* <span class="new">new</span> Організація [United Way](https://unitedway.nl) пропонує програму, яка направлена на підтримку українських жінок та дозволить отримати роботу - працювати  операторами АЗС на заправках TotalEnergies в Амстердамі.  Крім того можливість вивчити базову англійську. Пишіть <cedar.cox-mcallister@unitedway.nl>
+* <span class="new">new</span> Організація [United Way](https://unitedway.nl) пропонує програму, яка направлена на підтримку українських жінок та дозволить отримати роботу - працювати  операторами АЗС на заправках TotalEnergies в Амстердамі.  Крім того можливість вивчити базову англійську. Пишіть <cedar.cox-mcallister@unitedway.nl>.
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
