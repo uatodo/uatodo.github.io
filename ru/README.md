@@ -54,6 +54,8 @@
 
 <h3 id="job">Работа</h3>
 
+* <span class="new">new</span> Организация [United Way](https://unitedway.nl) предлагает программу, которая направлена ​​на поддержку украинских женщин и позволит получить работу – работать операторами АЗС на заправках TotalEnergies в Амстердаме. Кроме того возможность изучить базовый английский. Пишите <cedar.cox-mcallister@unitedway.nl>.
+
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
 * <span class="new">new</span> Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
