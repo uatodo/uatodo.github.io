@@ -20,9 +20,11 @@
 
 * Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
-* <span class="new">new</span> [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
+* <span class="new">new</span> Безкоштовні дитячі книжки українською мовою на [Lesido](https://www.lesido.de/ukraine)
 
-* <span class="new">new</span> Пошук [домашнього лікаря](https://huisartsvoorvluchteling.nl). Медичні працівники з України бажаючі допомогти можуть писати <contact@huisartsvoorvluchteling.nl>. 
+* [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
+
+*  Пошук [домашнього лікаря](https://huisartsvoorvluchteling.nl). Медичні працівники з України бажаючі допомогти можуть писати <contact@huisartsvoorvluchteling.nl>. 
 
 * Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
 
@@ -42,13 +44,13 @@
 
 * [Психологічна допомога та підтримка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
 
-* <span class="new">new</span> Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
+* Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
 
 * Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html).
 
 * Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
 
-* <span class="new">new</span> [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+* [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
 
 
