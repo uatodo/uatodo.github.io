@@ -184,13 +184,15 @@
 
 <h3 id="rotterdam">Роттердам та околицi</h3>
 
-* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
+* <span class="new">new</span> Ботанічний сад [Trompenburg](https://trompenburg.nl) пропонує безкоштовний вхід при пред'явленні українського паспорта.
 
-* <span class="new">new</span> [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) пропонує всім, хто хоче вивчати нідерландську мову щочетверга 10:00-12:00. Адреса: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
+* Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
 
-* <span class="new">new</span> [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/en) музей архітектури, дизайну та цифрової культури пропонує безкоштовний вхід для українців за пред‘явленням паспорту на касі.
+* [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) пропонує всім, хто хоче вивчати нідерландську мову щочетверга 10:00-12:00. Адреса: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
 
-* <span class="new">new</span> Театральна студія для дітей та підлітків. Адреса: Mathenesserdijk 293, Rotterdam. Запис через telegram @milena_act. 
+* [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/en) музей архітектури, дизайну та цифрової культури пропонує безкоштовний вхід для українців за пред‘явленням паспорту на касі.
+
+* Театральна студія для дітей та підлітків. Адреса: Mathenesserdijk 293, Rotterdam. Запис через telegram @milena_act. 
 
 
 
