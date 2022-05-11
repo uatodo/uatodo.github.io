@@ -184,13 +184,15 @@
 
 <h3 id="rotterdam">Роттердам и окрестности</h3>
 
-* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
+* <span class="new">new</span> Ботанический сад [Trompenburg](https://trompenburg.nl) предлагает бесплатный вход при наличии украинского паспорта.
 
-* <span class="new">new</span> [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) предлагает всем, кто хочет изучать нидерландский каждый четверг 10:00-12:00. Адрес: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
+* Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
 
-* <span class="new">new</span> [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/en) музей архитектуры, дизайна и цифровой культуры предлагает бесплатный вход для украинцев по предъявлению паспорта на кассе.
+* [Leeszaal](https://www.leeszaalrotterdamwest.nl/?p=3316) предлагает всем, кто хочет изучать нидерландский каждый четверг 10:00-12:00. Адрес: Rijnhoutplein 3, 3014 TZ, Rotterdam. 
 
-* <span class="new">new</span> Театральная студия для детей и подростков. Адрес: Mathenesserdijk 293, Rotterdam. Запись через telegram @milena_act. 
+* [Het Nieuwe Instituut](https://hetnieuweinstituut.nl/en) музей архитектуры, дизайна и цифровой культуры предлагает бесплатный вход для украинцев по предъявлению паспорта на кассе.
+
+* Театральная студия для детей и подростков. Адрес: Mathenesserdijk 293, Rotterdam. Запись через telegram @milena_act. 
 
 
 
@@ -200,9 +202,9 @@
 
 * <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины в Дордрехте.
 
-* <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) бесплатно для проживающих в Arnhem и окрестностях, при наличии паспорта. 
+* <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) бесплатно для проживающих в Arnhem и окрестностях, при наличии украинского паспорта. 
 
-* <span class="new">new</span> Музей [Singer Laren](https://www.singerlaren.nl/nl/) бесплатно при наличии паспорта. Бронировать <kassa@singerlaren.nl> или  0355393933. 
+* <span class="new">new</span> Музей [Singer Laren](https://www.singerlaren.nl/nl/) бесплатно при наличии украинского паспорта. Бронировать <kassa@singerlaren.nl> или  0355393933. 
 
 * <span class="new">new</span> Музей [De Fraeylemaborg](https://fraeylemaborg.nl) бесплатно при наличии паспорта.
 
