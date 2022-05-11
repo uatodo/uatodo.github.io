@@ -20,15 +20,17 @@
 
 * Канал "Ukraina 24" можно смотреть через Ziggo, номер канала 502.
 
-* <span class="new">new</span> [Goods4Ukraine](https://goods4ukraine.eu) объединяет спрос и предложение, чтобы помочь беженцам найти все необходимое.
+* <span class="new">new</span> Детские книжки на украинском бесплатно на [Lesido](https://www.lesido.de/ukraine)
 
-* <span class="new">new</span> Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
+* [Goods4Ukraine](https://goods4ukraine.eu) объединяет спрос и предложение, чтобы помочь беженцам найти все необходимое.
+
+* Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
 
 * Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
 
 * [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
 
-* <span class="new">new</span> [Глазная ассоциация Нидердандов](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) помогает украинцам с проблемами глаз. Пишите на украинском или русском <nina.spodina@oogvereniging.nl>.
+* [Глазная ассоциация Нидердандов](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) помогает украинцам с проблемами глаз. Пишите на украинском или русском <nina.spodina@oogvereniging.nl>.
 
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
@@ -42,13 +44,13 @@
 
 * [Психологическая помощь и поддержка](https://docs.google.com/forms/d/e/1FAIpQLSdxyxHfXTnF5xxZUTxYb1Isz1OHFmU3crQjwN6jFrl0VJRSBA/viewform).
 
-* <span class="new">new</span> Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
+* Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html).
 
 * Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
 
-* <span class="new">new</span> [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+* [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
 
 
