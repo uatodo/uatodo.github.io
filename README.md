@@ -56,7 +56,7 @@
 
 <h3 id="job">Робота</h3>
 
-* <span class="new">new</span> Організація [United Way](https://unitedway.nl) пропонує програму, яка направлена на підтримку українських жінок та дозволить отримати роботу - працювати  операторами АЗС на заправках TotalEnergies в Амстердамі.  Крім того можливість вивчити базову англійську. Пишіть <cedar.cox-mcallister@unitedway.nl>.
+* Організація [United Way](https://unitedway.nl) пропонує програму, яка направлена на підтримку українських жінок та дозволить отримати роботу - працювати  операторами АЗС на заправках TotalEnergies в Амстердамі.  Крім того можливість вивчити базову англійську. Пишіть <cedar.cox-mcallister@unitedway.nl>.
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
@@ -70,9 +70,11 @@
 
 * Платформа для пошуку роботи в Європі [UПошуку](https://t.me/uposhuku).
 
-* <span class="new">new</span> Допомога у пошуку [роботи](https://uarecruit.eu/ukrainians/).
+* Допомога у пошуку [роботи](https://uarecruit.eu/ukrainians/).
 
-* <span class="new">new</span> [Чат](https://t.me/BeautyMasterNL) бьюті-майстрів з України в Нідерландах.
+* [Чат](https://t.me/BeautyMasterNL) бьюті-майстрів з України в Нідерландах.
+
+* <span class="new">new</span> Безкоштовний курс програмування програм для смартфонів з 4х уроків. Для українців віком до 17 років, aнглійською, але з візуальними інструкціями. [Запис](https://github.com/calvinolang/coding4peace).
 
 
 
