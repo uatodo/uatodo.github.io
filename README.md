@@ -72,6 +72,8 @@
 
 * Допомога у пошуку [роботи](https://uarecruit.eu/ukrainians/).
 
+* <span class="new">new</span> Допомога у пошуку роботи від бюро з працевлаштування [R-Sharks](https://docs.google.com/forms/d/e/1FAIpQLSdPOxmjFF-Ana3-Y8_L-IMWLNsP9_WhxKtLdSN0jqmkEhbRDQ/viewform). Пишіть українською або російською.
+
 * [Чат](https://t.me/BeautyMasterNL) бьюті-майстрів з України в Нідерландах.
 
 * <span class="new">new</span> Безкоштовний курс програмування програм для смартфонів з 4х уроків. Для українців віком до 17 років, aнглійською, але з візуальними інструкціями. [Запис](https://github.com/calvinolang/coding4peace).
