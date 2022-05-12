@@ -184,7 +184,7 @@
 
 <h3 id="rotterdam">Роттердам и окрестности</h3>
 
-* <span class="new">new</span> Ботанический сад [Trompenburg](https://trompenburg.nl) предлагает бесплатный вход при наличии украинского паспорта.
+* <span class="new">new</span> Ботанический сад [Trompenburg](https://trompenburg.nl) вход €5,75 по предъявлению украинского паспорта.
 
 * Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
 
