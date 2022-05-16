@@ -37,6 +37,8 @@
 
 * [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
+* <span class="new">new</span> [Пункти](https://www.google.com/maps/d/viewer?mid=1-jYG6GIvuIqaLd4vF6jK2dpUmzmIB9Ec&ll=52.18268201764967%2C4.742247333064&z=10) надання гуманітарної допомоги для українців.
+
 
 
 <h3 id="care">Медична та психологічна допомога</h3>
