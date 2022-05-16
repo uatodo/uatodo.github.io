@@ -62,7 +62,7 @@
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
-* <span class="new">new</span> [Проектeduployment.nl](https://www.eduployment.nl) відкриває свою програму з влаштування на стажування та подальшу роботу для медсестер з України. А також безкоштовний курс інтенсивного навчання нідерландської мови. Подати [заявку](https://www.eduployment.nl/apply-now), необхідно додати резюме та мотиваційний лист англійською мовою.
+* <span class="new">new</span> [Проект eduployment.nl](https://www.eduployment.nl) відкриває свою програму з влаштування на стажування та подальшу роботу для медсестер з України. А також безкоштовний курс інтенсивного навчання нідерландської мови. Подати [заявку](https://www.eduployment.nl/apply-now), необхідно додати резюме та мотиваційний лист англійською мовою.
 
 * <span class="new">new</span> Українських біженців запрошують на роботу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Iнформація українською внизу сторінки. 
 
