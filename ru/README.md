@@ -46,6 +46,8 @@
 
 * Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
+* <span class="new">new</span> Бесплатная психологическая помощь от украинского травмо-коуча. Писать Dariia Bobkova <h.nugteren@jongeren-company.nl> или 06-147020410, [подробнее](https://www.jongeren-company.nl/contact).
+
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html).
 
 * Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
