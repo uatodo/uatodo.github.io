@@ -69,7 +69,7 @@
 
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
-* <span class="new">new</span> [Проект eduployment.nl](https://www.eduployment.nl) открывает свою программу по устройству на стажировку и дальнейшую работу для медсестер из Украины. А также бесплатный курс интенсивного обучения нидерландскому языку. Подать [заявку](https://www.eduployment.nl/apply-now), необходимо добавить резюме и мотивационное письмо на английском языке.
+* <span class="new">new</span> Проект [eduployment.nl](https://www.eduployment.nl) открывает свою программу по устройству на стажировку и дальнейшую работу для медсестер из Украины. А также бесплатный курс интенсивного обучения нидерландскому языку. Подать [заявку](https://www.eduployment.nl/apply-now), необходимо добавить резюме и мотивационное письмо на английском языке.
 
 * <span class="new">new</span> Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
 
@@ -209,15 +209,15 @@
 
 <h3 id="other-regions">Другие регионы</h3>
 
-* <span class="new">new</span> Клініка [Salbar Fysiotherapie](https://salbar-fysiotherapie.business.site) предоставляет бесплатную физиотерапию детям до 18 лет. Адрес: Scholeksterlaan 86, Vinkeveen. Для записи и вопросов обращайтесь к Валерии в WhatsApp: +380634579823.
+* Клініка [Salbar Fysiotherapie](https://salbar-fysiotherapie.business.site) предоставляет бесплатную физиотерапию детям до 18 лет. Адрес: Scholeksterlaan 86, Vinkeveen. Для записи и вопросов обращайтесь к Валерии в WhatsApp: +380634579823.
 
-* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины в Дордрехте.
+* Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины в Дордрехте.
 
-* <span class="new">new</span> [Оpenluchtmuseum](https://www.openluchtmuseum.nl) бесплатно для проживающих в Arnhem и окрестностях, при наличии украинского паспорта. 
+* [Оpenluchtmuseum](https://www.openluchtmuseum.nl) бесплатно для проживающих в Arnhem и окрестностях, при наличии украинского паспорта. 
 
-* <span class="new">new</span> Музей [Singer Laren](https://www.singerlaren.nl/nl/) бесплатно при наличии украинского паспорта. Бронировать <kassa@singerlaren.nl> или  0355393933. 
+* Музей [Singer Laren](https://www.singerlaren.nl/nl/) бесплатно при наличии украинского паспорта. Бронировать <kassa@singerlaren.nl> или  0355393933. 
 
-* <span class="new">new</span> Музей [De Fraeylemaborg](https://fraeylemaborg.nl) бесплатно при наличии паспорта.
+* Музей [De Fraeylemaborg](https://fraeylemaborg.nl) бесплатно при наличии паспорта.
 
 * [Занский музей](https://zaansmuseum.nl/zien-doen/gratis-toegang-voor-mensen-uit-oekraine/) и дом царя Петра Первого в Зандаме бесплатно для украинцев при предъявлении паспорта. 
 
