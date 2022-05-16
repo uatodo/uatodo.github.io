@@ -5,6 +5,7 @@
 ---
 
 * [Общая информция](#general)
+* [Медицинская и психологическая помощь](#care)
 * [Работа и обучение](#job)
 * [Языковые курсы](#lang)
 * [Гаага и окрестности](#the-hague)
@@ -24,13 +25,23 @@
 
 * [Goods4Ukraine](https://goods4ukraine.eu) объединяет спрос и предложение, чтобы помочь беженцам найти все необходимое.
 
-* Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
-
 * Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
 
 * [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#).
 
-*  <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для поиска спортивных и развлекательных мероприятий в вашем районе.
+* <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для поиска спортивных и развлекательных мероприятий в вашем районе.
+
+* Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html).
+
+* Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
+
+* [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+
+
+
+<h3 id="care">Медицинская и психологическая помощь</h3>
+
+* Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
 
 * [Глазная ассоциация Нидердандов](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) помогает украинцам с проблемами глаз. Пишите на украинском или русском <nina.spodina@oogvereniging.nl>.
 
@@ -49,12 +60,6 @@
 * Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
 * <span class="new">new</span> Бесплатная психологическая помощь от украинского травмо-коуча. Писать Dariia Bobkova <h.nugteren@jongeren-company.nl> или 06-147020410, [подробнее](https://www.jongeren-company.nl/contact).
-
-* Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html).
-
-* Платежные счета для беженцев из Украины. [Подробнее](https://www.betaalvereniging.nl/украіни/).
-
-* [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
 
 
