@@ -62,9 +62,11 @@
 
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
+* <span class="new">new</span> [Проект eduployment.nl](https://www.eduployment.nl) открывает свою программу по устройству на стажировку и дальнейшую работу для медсестер из Украины. А также бесплатный курс интенсивного обучения нидерландскому языку. Подать [заявку](https://www.eduployment.nl/apply-now), необходимо добавить резюме и мотивационное письмо на английском языке.
+
 * <span class="new">new</span> Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
 
-* <span class="new">new</span> Онлайн супермаркет Picnic приглашает украинцев на [работу](https://picnic.app/jobs/nl/magazijnmedewerker/). Минимальное знание английского. В Утрехте возможна работа без знания английского. [Подробнее](/assets/files/picnic.jpg).
+* Онлайн супермаркет Picnic приглашает украинцев на [работу](https://picnic.app/jobs/nl/magazijnmedewerker/). Минимальное знание английского. В Утрехте возможна работа без знания английского. [Подробнее](/assets/files/picnic.jpg).
 
 * Помощь в поиске работы для украинских ученых в Нидерландах. [Подробнее](https://delftacademia.org/job.22100208.434).
 
