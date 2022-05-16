@@ -29,7 +29,7 @@
 
 * [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
 
-*  <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для пошуку спортивних та розважальних заходів у вашому районі.
+* <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для пошуку спортивних та розважальних заходів у вашому районі.
 
 * Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html).
 
