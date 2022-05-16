@@ -5,6 +5,7 @@
 ---
 
 * [Загальна інформація](#general)
+* [Медична та психологічна допомога](#care)
 * [Робота та навчання](#job)
 * [Мовні курси](#lang)
 * [Гаага та околицi](#the-hague)
@@ -24,13 +25,23 @@
 
 * [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
 
-*  Пошук [домашнього лікаря](https://huisartsvoorvluchteling.nl). Медичні працівники з України бажаючі допомогти можуть писати <contact@huisartsvoorvluchteling.nl>. 
-
 * Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
 
 * [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
 
 *  <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для пошуку спортивних та розважальних заходів у вашому районі.
+
+* Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html).
+
+* Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
+
+* [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
+
+
+
+<h3 id="care">Медична та психологічна допомога</h3>
+
+*  Пошук [домашнього лікаря](https://huisartsvoorvluchteling.nl). Медичні працівники з України бажаючі допомогти можуть писати <contact@huisartsvoorvluchteling.nl>. 
 
 * [Очна асоціація Нідерландів](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) допомагає українцям із проблемами очей. Пишіть українською або російською <nina.spodina@oogvereniging.nl>.
 
@@ -49,12 +60,6 @@
 * Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
 
 * <span class="new">new</span> Безкоштовна психологічна допомога вiд українського травмо-коуча. Пишіть Dariia Bobkova <h.nugteren@jongeren-company.nl> або 06-147020410, [детальніше](https://www.jongeren-company.nl/contact).
-
-* Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html).
-
-* Платіжні рахунки для біженців з України. [Детальніше](https://www.betaalvereniging.nl/украіни/).
-
-* [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
 
 
