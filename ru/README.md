@@ -28,7 +28,9 @@
 
 * Горячая линия [Красного креста](https://www.rodekruis.nl/russian/). WhatsApp +31 648158053. Язык русский или украинский.
 
-* [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#)
+* [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#).
+
+*  <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для поиска спортивных и развлекательных мероприятий в вашем районе.
 
 * [Глазная ассоциация Нидердандов](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) помогает украинцам с проблемами глаз. Пишите на украинском или русском <nina.spodina@oogvereniging.nl>.
 
