@@ -21,7 +21,7 @@
 
 * Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
-* <span class="new">new</span> Безкоштовні дитячі книжки українською мовою на [Lesido](https://www.lesido.de/ukraine)
+* <span class="new">new</span> Безкоштовні дитячі книжки українською мовою на [Lesido](https://www.lesido.de/ukraine).
 
 * [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
 
@@ -130,6 +130,8 @@
 * Мережа дитячих стоматологічних клінік [Jeugd Tandzorg West](https://www.smile-west.com/) безкоштовно приймає українських діток. Насамперед з гострим болем, але можна й просто на огляд.
 
 * [Мадюродам](https://www.madurodam.nl/ru) в Гаазі вхід €2,5 при пред'явленні українського паспорта.
+
+* Музей [Museum Panorama Mesdag](https://panorama-mesdag.nl) безкоштовно при наявності паспорта.
 
 * Безкоштовні розваги для дітей в [Гаазі](https://www.facebook.com/2021697194510945/posts/7756351761045431/?d=n).
 
