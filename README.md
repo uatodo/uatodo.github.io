@@ -65,6 +65,8 @@
 
 <h3 id="job">Робота та навчання</h3>
 
+* <span class="new">new</span> Державна служба зайнятості Нідерландів [інформує](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
+
 * Організація [United Way](https://unitedway.nl) пропонує програму, яка направлена на підтримку українських жінок та дозволить отримати роботу - працювати  операторами АЗС на заправках TotalEnergies в Амстердамі. Крім того можливість вивчити базову англійську. Пишіть <cedar.cox-mcallister@unitedway.nl>.
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
@@ -95,7 +97,7 @@
 
 * Прямий онлайн переклад вашої розмови. [Докладніше](https://www.pryv.it/).
 
-* Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal)  щонеділі, о 18-й (за київським часом) для всіх рівнів.
+* Розмовний онлайн клуб української мови [Нарешті](https://www.facebook.com/nareshticlub/?ref=page_internal) щонеділі, о 18-й (за київським часом) для всіх рівнів.
 
 * Університет Гронінгена пропонує безкоштовний онлайн-курс голландської мови для початківців. [Детальніше](https://www.rug.nl/language-centre/about-us/news/free-online-dutch-beginners-course-available?fbclid=IwAR3VtZTTJJQiaFjy2PrUly4uTHC9nPwdhcNj3sxrbIDpf5okXQ2ILGuJEkE).
 
@@ -121,7 +123,7 @@
 
 * Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
-* <span class="new">new</span> Щопонеділка [MOC](https://www.mocschilderswijk.nl) проводить кавовий ранок на Teniersstraat 17 в Гаазі з 9.45 до 11.45 для дітей 0-4 років з України та членів їх сімей. Знання голландської або англійської мови не потрібно.
+* Щопонеділка [MOC](https://www.mocschilderswijk.nl) проводить кавовий ранок на Teniersstraat 17 в Гаазі з 9.45 до 11.45 для дітей 0-4 років з України та членів їх сімей. Знання голландської або англійської мови не потрібно.
 
 * Дитячий центр [Bamboe](https://www.kindcentrumbamboe.nl) пропонує вже зараз українським дітям 7-12 років місця у суботній групі та дітям 4-12 років місця у денному літньому таборі, який пройде з 11 по 28 липня. Контактна особа Raymond Been <rbeen@kindcentrumbamboe.nl> чи 070 - 3662011 / 06 - 31792983 чи [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
