@@ -65,6 +65,8 @@
 
 <h3 id="job">Работа и обучение</h3>
 
+* <span class="new">new</span> Государственная служба занятости Нидерландов [информирует](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
+
 * Организация [United Way](https://unitedway.nl) предлагает программу, которая направлена ​​на поддержку украинских женщин и позволит получить работу – работать операторами АЗС на заправках TotalEnergies в Амстердаме. Кроме того возможность изучить базовый английский. Пишите <cedar.cox-mcallister@unitedway.nl>.
 
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
@@ -121,7 +123,7 @@
 
 * Начата регистрация украинских деток в школы Гааги. Заполнить форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
-* <span class="new">new</span> По понедельникам [MOC](https://www.mocschilderswijk.nl) проводит встречи на Teniersstraat 17 в Гааге с 9.45 до 11.45 для детей 0-4 лет с Украины и членов их семей. Знания нидерландского или англиского не нужны.
+* По понедельникам [MOC](https://www.mocschilderswijk.nl) проводит встречи на Teniersstraat 17 в Гааге с 9.45 до 11.45 для детей 0-4 лет с Украины и членов их семей. Знания нидерландского или англиского не нужны.
 
 * Детский центр [Bamboe](https://www.kindcentrumbamboe.nl) предлагает уже сейчас украинским детям 7-12 лет места в субботней группе и детям 4-12 лет места в дневном летнем лагере, который пройдет с 11 по 28 июля. Контактная персона Raymond Been <rbeen@kindcentrumbamboe.nl> или 070 - 3662011 / 06 - 31792983 или [формуляр](https://forms.office.com/Pages/ResponsePage.aspx?id=U8tAmLxXtEu4BBU7XfsB2QTnhmjpmBFJpgdv_0YDoD5UNElLMjdMV0FHNEcwNzZPRzdGWE5BRTJCQi4u).
 
