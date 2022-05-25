@@ -155,7 +155,7 @@
 
 <h3 id="amsterdam">Амстердам та околицi</h3>
 
-* <span class="new">new</span> Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
+* Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
 
 * [Rijksmuseum](https://www.rijksmuseum.nl/nl) організовують недільні зустрічі та тури музеєм, бронювати <Educatie@rijksmuseum.nl>. В будні безкоштовний вхід при пред'явленні українського паспорта.
 
@@ -165,9 +165,11 @@
  
 * Організація "Громадські бібліотеки Амстердаму" спеціально для українців [пропонує](https://www.oba.nl/actueel/Ukraine.html), також організувала [фотовиставку](https://www.oba.nl/agenda/oosterdok/fotoexpositieamsterdammeetlviv.html), вхід вільний.
 
-* <span class="new">new</span> Публічна бібліотека Амстердама організовуємо безкоштовні заходи для дітей та молоді, такі як виготовлення роботів та друк футболок. [Реєстрація](https://forms.office.com/pages/responsepage.aspx?id=1xCYVQeFWEa5OJUME0K6eVxAE_xgd8hEuW9PU0WgWPFUQzJFMlI4S1FGVkxVMTdUNjJJQUNFUDFWSC4u).
+* Публічна бібліотека Амстердама організовуємо безкоштовні заходи для дітей та молоді, такі як виготовлення роботів та друк футболок. [Реєстрація](https://forms.office.com/pages/responsepage.aspx?id=1xCYVQeFWEa5OJUME0K6eVxAE_xgd8hEuW9PU0WgWPFUQzJFMlI4S1FGVkxVMTdUNjJJQUNFUDFWSC4u).
 
 * Зоопарк в м. Амстердам [Artis](https://www.artis.nl/nl/) безкоштовний вхід при пред'явленні українського паспорта. 
+
+* <span class="new">new</span> Агенство дитячих театрів Vanaf2 [пропонує](https://us7.campaign-archive.com/?e=__test_email__&u=4d32eb9cf33d260610e67f9db&id=e93cc8f17e).
 
 * Безкоштовні розваги для дітей в [Амстердамі](https://www.instagram.com/p/CbcQmxYgkbr/?utm_medium=copy_link).
 
@@ -183,15 +185,15 @@
 
 * [Театральна студія](https://www.instagram.com/p/CbfL_dSK7hH/) для українських діток від 7 до 12 років. Безкоштовно. Амстердам. [Реєстрація](https://www.instagram.com/go_sonya/)
 
-* <span class="new">new</span> Фізична активність для українців у Амстердамі. Розтяжка - вівторок та четвер - Tweee Weteringdwarsstraat 41H. Танці для дітей - п'ятниця 17:00 - Lijnbaangracht 166. Танці для дівчат - п'ятниця 19:30 - Tussen de Bogen, 95. Запис через +380978589807. 
+* Фізична активність для українців у Амстердамі. Розтяжка - вівторок та четвер - Tweee Weteringdwarsstraat 41H. Танці для дітей - п'ятниця 17:00 - Lijnbaangracht 166. Танці для дівчат - п'ятниця 19:30 - Tussen de Bogen, 95. Запис через +380978589807. 
 
 * Безкоштовні заняття тенісом для українських дітей в [Амстердамі](https://tennisopmaat.nl). Реєстрація англійською або нідерландською <info@tennisopmaat.nl>.
 
 * Безкоштовні заняття художньою гімнастикою в [Амстердамі](https://rgstudio.nl). Реєстрація через Viber +31639426605 , Вікторія Мирошнікова.
 
-* <span class="new">new</span> Безкоштовні групові заняття спортом для українських жінок у [Fight Beck Center](https://www.fightbeck.nl) Адреса: Tweede Weteringdwarsstraat 41H Amsterdam. Реєстрація за номером телефону +380978589807.
+* Безкоштовні групові заняття спортом для українських жінок у [Fight Beck Center](https://www.fightbeck.nl) Адреса: Tweede Weteringdwarsstraat 41H Amsterdam. Реєстрація за номером телефону +380978589807.
 
-* <span class="new">new</span> Безкоштовний одяг для українців. [Polska Biblioteka](https://bibliotekapolska.nl/solidarni-z-ukraina/), адреса Louwesweg 401. П'ятниця 12:00-19:00, субота 11:00-17:00.
+* Безкоштовний одяг для українців. [Polska Biblioteka](https://bibliotekapolska.nl/solidarni-z-ukraina/), адреса Louwesweg 401. П'ятниця 12:00-19:00, субота 11:00-17:00.
 
 * Безкоштовний склад-магазин: Amstelveen, Handweg 129. Час роботи щоденно: 10:00-18.00
 
