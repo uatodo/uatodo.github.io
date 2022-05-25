@@ -39,6 +39,8 @@
 
 * [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
+* <span class="new">new</span> Агенство дитячих театрів Vanaf2 [пропонує](https://vanaf2.nl/boek-andre-het-astronautje-in-het-oekraiens/).
+
 
 
 <h3 id="care">Медична та психологічна допомога</h3>
@@ -168,8 +170,6 @@
 * Публічна бібліотека Амстердама організовуємо безкоштовні заходи для дітей та молоді, такі як виготовлення роботів та друк футболок. [Реєстрація](https://forms.office.com/pages/responsepage.aspx?id=1xCYVQeFWEa5OJUME0K6eVxAE_xgd8hEuW9PU0WgWPFUQzJFMlI4S1FGVkxVMTdUNjJJQUNFUDFWSC4u).
 
 * Зоопарк в м. Амстердам [Artis](https://www.artis.nl/nl/) безкоштовний вхід при пред'явленні українського паспорта. 
-
-* <span class="new">new</span> Агенство дитячих театрів Vanaf2 [пропонує](https://us7.campaign-archive.com/?e=__test_email__&u=4d32eb9cf33d260610e67f9db&id=e93cc8f17e).
 
 * Безкоштовні розваги для дітей в [Амстердамі](https://www.instagram.com/p/CbcQmxYgkbr/?utm_medium=copy_link).
 
