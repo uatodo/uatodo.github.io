@@ -39,7 +39,7 @@
 
 * [Автострахование](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
-* <span class="new">new</span> Агенство детских театров Vanaf2 [предлагает](https://vanaf2.nl/boek-andre-het-astronautje-in-het-oekraiens/).
+* Агенство детских театров Vanaf2 [предлагает](https://vanaf2.nl/boek-andre-het-astronautje-in-het-oekraiens/).
 
 
 
@@ -95,7 +95,7 @@
 
 * [Чат](https://t.me/BeautyMasterNL) украинских бьюти-мастеров в Нидерландах.
 
-* <span class="new">new</span> Бесплатный курс программирования приложений для смартфонов из 4х уроков. Для украинцев до 17 лет, на английском, но с визуальными инструкциями. [Запись](https://github.com/calvinolang/coding4peace).
+* Бесплатный курс программирования приложений для смартфонов из 4х уроков. Для украинцев до 17 лет, на английском, но с визуальными инструкциями. [Запись](https://github.com/calvinolang/coding4peace).
 
 
 
@@ -207,7 +207,7 @@
 
 <h3 id="rotterdam">Роттердам и окрестности</h3>
 
-* <span class="new">new</span> Ботанический сад [Trompenburg](https://trompenburg.nl) вход €5,75 по предъявлению украинского паспорта.
+* Ботанический сад [Trompenburg](https://trompenburg.nl) вход €5,75 по предъявлению украинского паспорта.
 
 * Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
 
