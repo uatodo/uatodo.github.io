@@ -39,7 +39,7 @@
 
 * [Автострахування](https://vereende.nl/actueel/verzekeringsoplossing-voor-vluchtelingen-uit-oekraïne).
 
-* <span class="new">new</span> Агенство дитячих театрів Vanaf2 [пропонує](https://vanaf2.nl/boek-andre-het-astronautje-in-het-oekraiens/).
+* Агенство дитячих театрів Vanaf2 [пропонує](https://vanaf2.nl/boek-andre-het-astronautje-in-het-oekraiens/).
 
 
 
@@ -69,7 +69,7 @@
 
 <h3 id="job">Робота та навчання</h3>
 
-* <span class="new">new</span> Державна служба зайнятості Нідерландів [інформує](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
+* Державна служба зайнятості Нідерландів [інформує](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
 
 * <span class="new">new</span> [DVA](https://dvadelft.nl) шукає в Делфті людей від 18 до 35 років, які володіють англійською мовою. Для допомоги українським діткам у дитячому денному таборі. Ви отримаєте компенсацію в розмірі 62,50 євро на тиждень. Тиждень1: з 11 по 15 липня з 08:30 до 15:15 Тиждень2: з 18 по 22 липня з 08:30 до 15:15. Пишіть <administratie@delftvoorelkaar.nl> або зателефонуйте 015-760200.
 
@@ -95,7 +95,7 @@
 
 * [Чат](https://t.me/BeautyMasterNL) бьюті-майстрів з України в Нідерландах.
 
-* <span class="new">new</span> Безкоштовний курс програмування програм для смартфонів з 4х уроків. Для українців віком до 17 років, aнглійською, але з візуальними інструкціями. [Запис](https://github.com/calvinolang/coding4peace).
+* Безкоштовний курс програмування програм для смартфонів з 4х уроків. Для українців віком до 17 років, aнглійською, але з візуальними інструкціями. [Запис](https://github.com/calvinolang/coding4peace).
 
 
 
@@ -207,7 +207,7 @@
 
 <h3 id="rotterdam">Роттердам та околицi</h3>
 
-* <span class="new">new</span> Ботанічний сад [Trompenburg](https://trompenburg.nl) вхід €5,75 при пред'явленні українського паспорта.
+* Ботанічний сад [Trompenburg](https://trompenburg.nl) вхід €5,75 при пред'явленні українського паспорта.
 
 * Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) пропонує безкоштовну підписку громадянинові України.  
 
