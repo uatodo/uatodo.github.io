@@ -27,6 +27,8 @@
 
 * <span class="new">new</span> Доступ до книг про Гаррi Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
 
+* <span class="new">new</span> Безкоштовно дитяча [книжка] https://www.lifebookforyouth.com/mylifejourneybook.
+
 * [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
 
 * Гаряча лінія [Червоного хреста](https://www.rodekruis.nl/ukrainian/). WhatsApp +31 648158053. Мова українська чи російська.
