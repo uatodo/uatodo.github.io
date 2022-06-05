@@ -207,6 +207,8 @@
 
 <h3 id="rotterdam">Роттердам и окрестности</h3>
 
+* <span class="new">new</span> Танцевальная группа [«МРІЯ»](https://www.facebook.com/dansgroupmriya/) приглашает украинских беженцев на бесплатные занятия народными танцами.
+
 * Ботанический сад [Trompenburg](https://trompenburg.nl) вход €5,75 по предъявлению украинского паспорта.
 
 * Велошеринг [Donkey Republic](https://www.donkey.bike/donkey-republic-ukraine-refugees-statement/) предлагает бесплатную подписку для граждан Украины.  
