@@ -27,7 +27,7 @@
 
 * <span class="new">new</span> Доступ до книг про Гаррi Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
 
-* <span class="new">new</span> Безкоштовно дитяча [книжка] https://www.lifebookforyouth.com/mylifejourneybook.
+* <span class="new">new</span> Безкоштовно дитяча [книжка](https://www.lifebookforyouth.com/mylifejourneybook).
 
 * [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
 
