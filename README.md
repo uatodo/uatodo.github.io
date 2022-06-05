@@ -21,6 +21,8 @@
 
 * Канал "Ukraina 24" можна дивитися на Ziggo, номер каналу 502.
 
+* Канал "Nickelodeon" можна дивитися на Ziggo, номер каналу 313.
+
 * <span class="new">new</span> Безкоштовні дитячі книжки українською мовою на [Lesido](https://www.lesido.de/ukraine).
 
 * <span class="new">new</span> Доступ до книг про Гаррi Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
