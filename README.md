@@ -23,11 +23,11 @@
 
 * Канал "Nickelodeon" можна дивитися на Ziggo, номер каналу 313.
 
-* <span class="new">new</span> Безкоштовні дитячі книжки українською мовою на [Lesido](https://www.lesido.de/ukraine).
+* Безкоштовні дитячі книжки українською мовою на [Lesido](https://www.lesido.de/ukraine).
 
-* <span class="new">new</span> Доступ до книг про Гаррi Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
+* Доступ до книг про Гаррi Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
 
-* <span class="new">new</span> Безкоштовно дитяча книжка-воркбук [Моя велика подорож](https://www.lifebookforyouth.com/mylifejourneybook).
+* Безкоштовно дитяча книжка-воркбук [Моя велика подорож](https://www.lifebookforyouth.com/mylifejourneybook).
 
 * [Goods4Ukraine](https://goods4ukraine.eu) об’єднує попит і пропозицію, щоб допомогти біженцям знайти все необхідне.
 
@@ -35,7 +35,7 @@
 
 * [Допомога для тварин з України](https://www.hulpvoordierenuitoekraine.nl/uk/#).
 
-* <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для пошуку спортивних та розважальних заходів у вашому районі.
+* [Онлайн-платформа](https://www.connectukraine.nl) для пошуку спортивних та розважальних заходів у вашому районі.
 
 * Тимчасове місце проживання для біженців з України в Європі. Акція від [booking.com](https://www.booking.com/dealspage.uk.html).
 
@@ -51,11 +51,13 @@
 
 *  Пошук [домашнього лікаря](https://huisartsvoorvluchteling.nl). Медичні працівники з України бажаючі допомогти можуть писати <contact@huisartsvoorvluchteling.nl>. 
 
+* <span class="new">new</span> [Wereldpsychologen](https://www.wereldpsychologen.nl) пропонує безкоштовно психологічну допомогу.
+
 * [Очна асоціація Нідерландів](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) допомагає українцям із проблемами очей. Пишіть українською або російською <nina.spodina@oogvereniging.nl>.
 
 * Лікарні Нідерландів відкривають свої двері для надання медичної допомоги [онкохворим українцям](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Продовжити лікування в Нідерландах можна за погодженням з домашнім лікарем. Зокрема, [Нідерландський інститут раку](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) буде приймати українців з онко-діагнозами або з підозрою на онкологію.
 
-* <span class="new">new</span> [Онлайн-платформа Лікарі](https://likari.net.ua) для дистанційних медичних консультацій з українськими лікарями та клініками.
+* [Онлайн-платформа Лікарі](https://likari.net.ua) для дистанційних медичних консультацій з українськими лікарями та клініками.
 
 * Безкоштовні консультації дипламованих лікарів, у тому числі психологів. [еЗдоровье](https://okdoc.me).
 
@@ -67,7 +69,7 @@
 
 * Для всіх і кожного кому потрібні заспокоєння та зменшення стресу [аудіо вправи](https://voice4comfort.com).
 
-* <span class="new">new</span> Безкоштовна психологічна допомога вiд українського травмо-коуча. Пишіть Dariia Bobkova <h.nugteren@jongeren-company.nl> або 06-147020410, [детальніше](https://www.jongeren-company.nl/contact).
+* Безкоштовна психологічна допомога вiд українського травмо-коуча. Пишіть Dariia Bobkova <h.nugteren@jongeren-company.nl> або 06-147020410, [детальніше](https://www.jongeren-company.nl/contact).
 
 
 
@@ -75,15 +77,15 @@
 
 * Державна служба зайнятості Нідерландів [інформує](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
 
-* <span class="new">new</span> [DVA](https://dvadelft.nl) шукає в Делфті людей від 18 до 35 років, які володіють англійською мовою. Для допомоги українським діткам у дитячому денному таборі. Ви отримаєте компенсацію в розмірі 62,50 євро на тиждень. Тиждень1: з 11 по 15 липня з 08:30 до 15:15 Тиждень2: з 18 по 22 липня з 08:30 до 15:15. Пишіть <administratie@delftvoorelkaar.nl> або зателефонуйте 015-760200.
+* [DVA](https://dvadelft.nl) шукає в Делфті людей від 18 до 35 років, які володіють англійською мовою. Для допомоги українським діткам у дитячому денному таборі. Ви отримаєте компенсацію в розмірі 62,50 євро на тиждень. Тиждень1: з 11 по 15 липня з 08:30 до 15:15 Тиждень2: з 18 по 22 липня з 08:30 до 15:15. Пишіть <administratie@delftvoorelkaar.nl> або зателефонуйте 015-760200.
 
 * Організація [United Way](https://unitedway.nl) пропонує програму, яка направлена на підтримку українських жінок та дозволить отримати роботу - працювати  операторами АЗС на заправках TotalEnergies в Амстердамі. Крім того можливість вивчити базову англійську. Пишіть <cedar.cox-mcallister@unitedway.nl>.
 
 * Університети світу пропонують Україні [Scienceforukraine](https://scienceforukraine.eu).
 
-* <span class="new">new</span> Проект [eduployment.nl](https://www.eduployment.nl) відкриває свою програму з влаштування на стажування та подальшу роботу для медсестер з України. А також безкоштовний курс інтенсивного навчання нідерландської мови. Подати [заявку](https://www.eduployment.nl/apply-now), необхідно додати резюме та мотиваційний лист англійською мовою.
+* Проект [eduployment.nl](https://www.eduployment.nl) відкриває свою програму з влаштування на стажування та подальшу роботу для медсестер з України. А також безкоштовний курс інтенсивного навчання нідерландської мови. Подати [заявку](https://www.eduployment.nl/apply-now), необхідно додати резюме та мотиваційний лист англійською мовою.
 
-* <span class="new">new</span> Українських біженців запрошують на роботу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Iнформація українською внизу сторінки. 
+* Українських біженців запрошують на роботу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Iнформація українською внизу сторінки. 
 
 * Онлайн супермаркет Picnic запрошують українців на [роботу](https://picnic.app/jobs/nl/magazijnmedewerker/). Мінімальне знання англійської. В Утрехті можлива робота без знання англійської мови. [Детальніше](/assets/files/picnic.jpg).
 
@@ -95,7 +97,7 @@
 
 * Допомога у пошуку [роботи](https://uarecruit.eu/ukrainians/).
 
-* <span class="new">new</span> Допомога у пошуку роботи від бюро з працевлаштування [R-Sharks](https://docs.google.com/forms/d/e/1FAIpQLSdPOxmjFF-Ana3-Y8_L-IMWLNsP9_WhxKtLdSN0jqmkEhbRDQ/viewform). Пишіть українською або російською.
+* Допомога у пошуку роботи від бюро з працевлаштування [R-Sharks](https://docs.google.com/forms/d/e/1FAIpQLSdPOxmjFF-Ana3-Y8_L-IMWLNsP9_WhxKtLdSN0jqmkEhbRDQ/viewform). Пишіть українською або російською.
 
 * [Чат](https://t.me/BeautyMasterNL) бьюті-майстрів з України в Нідерландах.
 
@@ -133,7 +135,7 @@
 
 * Розпочато реєстрацію українських діток у школи Гааги. Заповнити форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers)
 
-* <span class="new">new</span> [DVA](https://dvadelft.nl) має літній проект у Делфті, де щодня організовуються різні ігри та майстер-класи для дітей від 4 до 12 років. Тиждень1: з 11 по 15 липня з 08:30 до 15:15 Тиждень2: з 18 по 22 липня з 08:30 до 15:15. Пишіть <administratie@delftvoorelkaar.nl> або зателефонуйте 015-760200.
+* [DVA](https://dvadelft.nl) має літній проект у Делфті, де щодня організовуються різні ігри та майстер-класи для дітей від 4 до 12 років. Тиждень1: з 11 по 15 липня з 08:30 до 15:15 Тиждень2: з 18 по 22 липня з 08:30 до 15:15. Пишіть <administratie@delftvoorelkaar.nl> або зателефонуйте 015-760200.
 
 * Щопонеділка [MOC](https://www.mocschilderswijk.nl) проводить кавовий ранок на Teniersstraat 17 в Гаазі з 9.45 до 11.45 для дітей 0-4 років з України та членів їх сімей. Знання голландської або англійської мови не потрібно.
 
@@ -209,7 +211,7 @@
 
 <h3 id="rotterdam">Роттердам та околицi</h3>
 
-* <span class="new">new</span> Танцювальна група [«МРІЯ»](https://www.facebook.com/dansgroupmriya/) запрошує українських біженців на безкоштовні заняття народними танцями.
+* Танцювальна група [«МРІЯ»](https://www.facebook.com/dansgroupmriya/) запрошує українських біженців на безкоштовні заняття народними танцями.
 
 * Ботанічний сад [Trompenburg](https://trompenburg.nl) вхід €5,75 при пред'явленні українського паспорта.
 
