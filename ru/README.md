@@ -23,9 +23,9 @@
 
 * Канал "Nickelodeon" можно смотреть через Ziggo, номер канала 313.
 
-* <span class="new">new</span> Доступ к книгам про Гарри Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
+* Доступ к книгам про Гарри Поттера [тут](https://www.pottermorepublishing.com/ukrainian-ebooks/).
 
-* <span class="new">new</span> Детские книжки на украинском бесплатно на [Lesido](https://www.lesido.de/ukraine)
+* Детские книжки на украинском бесплатно на [Lesido](https://www.lesido.de/ukraine)
 
 * [Goods4Ukraine](https://goods4ukraine.eu) объединяет спрос и предложение, чтобы помочь беженцам найти все необходимое.
 
@@ -33,7 +33,7 @@
 
 * [Помощь животным из Украины ](https://www.hulpvoordierenuitoekraine.nl/ru/#).
 
-* <span class="new">new</span> [Онлайн-платформа](https://www.connectukraine.nl) для поиска спортивных и развлекательных мероприятий в вашем районе.
+* [Онлайн-платформа](https://www.connectukraine.nl) для поиска спортивных и развлекательных мероприятий в вашем районе.
 
 * Временное жилье для украинских беженцев в Европе. Акция от [booking.com](https://www.booking.com/dealspage.ru.html).
 
@@ -49,11 +49,13 @@
 
 * Поиск [домашнего врача](https://huisartsvoorvluchteling.nl). Медицинские работники из Украины, желающие помочь могут писать <contact@huisartsvoorvluchteling.nl>. 
 
+* <span class="new">new</span> [Wereldpsychologen](https://www.wereldpsychologen.nl) предлагает бесплатно психологическую помощь.
+
 * [Глазная ассоциация Нидердандов](https://www.oogvereniging.nl/steunpuntmigranten/oekraine/) помогает украинцам с проблемами глаз. Пишите на украинском или русском <nina.spodina@oogvereniging.nl>.
 
 * Больницы Нидерландов открывают свои двери для оказания медицинской помощи украинцам, [больным раком](https://www.kanker.nl/nieuwsberichten/gratis-kankerzorg-voor-oekraiense-vluchtelingen). Они могут продолжить лечение в Нидерландах при согласовании с домашним врачом.  В частности, [Нидерландский институт рака](https://m.facebook.com/story.php?story_fbid=2047501065429688&id=100005094433625&m_entstream_source=timeline&refid=17&ref=bookmarks&tn=%2As%2AsH-R) будет примать украинцев с онко-диагнозами или с подозрением на онкологию.
 
-* <span class="new">new</span> [Онлайн-платформа Лікарі](https://likari.net.ua) для дистанционных медицинских консультаций с украинскими врачами и клиниками.
+* [Онлайн-платформа Лікарі](https://likari.net.ua) для дистанционных медицинских консультаций с украинскими врачами и клиниками.
 
 * Бесплатные консультации дипломированных врачей, в том числе психологов [еЗдоровье](https://okdoc.me).
 
@@ -65,23 +67,25 @@
 
 * Для всех и каждого кому нужны успокоение и уменьшение стресса [аудио упражнения](https://voice4comfort.com).
 
-* <span class="new">new</span> Бесплатная психологическая помощь от украинского травмо-коуча. Писать Dariia Bobkova <h.nugteren@jongeren-company.nl> или 06-147020410, [подробнее](https://www.jongeren-company.nl/contact).
+* Бесплатная психологическая помощь от украинского травмо-коуча. Писать Dariia Bobkova <h.nugteren@jongeren-company.nl> или 06-147020410, [подробнее](https://www.jongeren-company.nl/contact).
 
 
 
 <h3 id="job">Работа и обучение</h3>
 
-* <span class="new">new</span> Государственная служба занятости Нидерландов [информирует](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
+* <span class="new">new</span> [Iнформація](https://www.studyinholland.nl/situation-ukraine) англійською мовою про вищу освіту у Нідерландах (HBO та WO).
 
-* <span class="new">new</span> [DVA](https://dvadelft.nl) ищет в Делфте людей от 18 до 35 лет, которые владеют анлгийским языком. Для помощи украинским деткам в детском дневном лагере. Неделя1: с 11 по 15 июля с 08:30 по 15:15. Неделя2: з 18 по 22 июля с 08:30 по 15:15. Вы получите компенсацию 62,50 евро за неделю. Пишите <administratie@delftvoorelkaar.nl> или звоните 015-760200.
+* Государственная служба занятости Нидерландов [информирует](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
+
+* [DVA](https://dvadelft.nl) ищет в Делфте людей от 18 до 35 лет, которые владеют анлгийским языком. Для помощи украинским деткам в детском дневном лагере. Неделя1: с 11 по 15 июля с 08:30 по 15:15. Неделя2: з 18 по 22 июля с 08:30 по 15:15. Вы получите компенсацию 62,50 евро за неделю. Пишите <administratie@delftvoorelkaar.nl> или звоните 015-760200.
 
 * Организация [United Way](https://unitedway.nl) предлагает программу, которая направлена ​​на поддержку украинских женщин и позволит получить работу – работать операторами АЗС на заправках TotalEnergies в Амстердаме. Кроме того возможность изучить базовый английский. Пишите <cedar.cox-mcallister@unitedway.nl>.
 
 * Университеты мира предлагают Украине [Scienceforukraine](https://scienceforukraine.eu).
 
-* <span class="new">new</span> Проект [eduployment.nl](https://www.eduployment.nl) открывает свою программу по устройству на стажировку и дальнейшую работу для медсестер из Украины. А также бесплатный курс интенсивного обучения нидерландскому языку. Подать [заявку](https://www.eduployment.nl/apply-now), необходимо добавить резюме и мотивационное письмо на английском языке.
+* Проект [eduployment.nl](https://www.eduployment.nl) открывает свою программу по устройству на стажировку и дальнейшую работу для медсестер из Украины. А также бесплатный курс интенсивного обучения нидерландскому языку. Подать [заявку](https://www.eduployment.nl/apply-now), необходимо добавить резюме и мотивационное письмо на английском языке.
 
-* <span class="new">new</span> Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
+* Украинских беженцев приглашают на работу в [Evita Zorg](https://www.evitazorg.nl/oekraiense-vluchtelingen-welkom-werk-evita-zorg/). Информация на украинском внизу страницы. 
 
 * Онлайн супермаркет Picnic приглашает украинцев на [работу](https://picnic.app/jobs/nl/magazijnmedewerker/). Минимальное знание английского. В Утрехте возможна работа без знания английского. [Подробнее](/assets/files/picnic.jpg).
 
@@ -93,7 +97,7 @@
 
 * Помощь в поиске [работы](https://uarecruit.eu/ukrainians/).
 
-* <span class="new">new</span> Помощь в поиске работы от бюро [R-Sharks](https://docs.google.com/forms/d/e/1FAIpQLSdPOxmjFF-Ana3-Y8_L-IMWLNsP9_WhxKtLdSN0jqmkEhbRDQ/viewform). Пишите на украинском или русском.
+* Помощь в поиске работы от бюро [R-Sharks](https://docs.google.com/forms/d/e/1FAIpQLSdPOxmjFF-Ana3-Y8_L-IMWLNsP9_WhxKtLdSN0jqmkEhbRDQ/viewform). Пишите на украинском или русском.
 
 * [Чат](https://t.me/BeautyMasterNL) украинских бьюти-мастеров в Нидерландах.
 
@@ -131,7 +135,7 @@
 
 * Начата регистрация украинских деток в школы Гааги. Заполнить форму можна [тут](https://scholenwijzer.denhaag.nl/signup-newcomers).
 
-* <span class="new">new</span> [DVA](https://dvadelft.nl) организует проект для детей, где ежедневно разичные игры и мастер-классы. Предназначенно для детей от 4 до 12 лет. Неделя1: с 11 по 15 июля с 08:30 по 15:15. Неделя2: з 18 по 22 июля с 08:30 по 15:15. Пишите <administratie@delftvoorelkaar.nl> или звоните 015-760200.
+* [DVA](https://dvadelft.nl) организует проект для детей, где ежедневно разичные игры и мастер-классы. Предназначенно для детей от 4 до 12 лет. Неделя1: с 11 по 15 июля с 08:30 по 15:15. Неделя2: з 18 по 22 июля с 08:30 по 15:15. Пишите <administratie@delftvoorelkaar.nl> или звоните 015-760200.
 
 * По понедельникам [MOC](https://www.mocschilderswijk.nl) проводит встречи на Teniersstraat 17 в Гааге с 9.45 до 11.45 для детей 0-4 лет с Украины и членов их семей. Знания нидерландского или англиского не нужны.
 
@@ -207,7 +211,7 @@
 
 <h3 id="rotterdam">Роттердам и окрестности</h3>
 
-* <span class="new">new</span> Танцевальная группа [«МРІЯ»](https://www.facebook.com/dansgroupmriya/) приглашает украинских беженцев на бесплатные занятия народными танцами.
+* Танцевальная группа [«МРІЯ»](https://www.facebook.com/dansgroupmriya/) приглашает украинских беженцев на бесплатные занятия народными танцами.
 
 * Ботанический сад [Trompenburg](https://trompenburg.nl) вход €5,75 по предъявлению украинского паспорта.
 
