@@ -73,7 +73,7 @@
 
 <h3 id="job">Работа и обучение</h3>
 
-* <span class="new">new</span> [Iнформація](https://www.studyinholland.nl/situation-ukraine) англійською мовою про вищу освіту у Нідерландах (HBO та WO).
+* <span class="new">new</span> [Информация](https://www.studyinholland.nl/situation-ukraine) на английском языке о высшем образовании в Нидерландах (HBO и WO).
 
 * Государственная служба занятости Нидерландов [информирует](https://www.werk.nl/werkzoekenden/eu/ua-working-in-the-netherlands/).
 
